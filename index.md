@@ -64,6 +64,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
 
 ### Talks
+- **2025.02** Generating Explanations with Hybrid AI to Support the Right to Challenge, at 1st LoDEx Workshop on Logical Methods for Deontic Explanations, Bochum, Germany
 - **2024.10** Three Conceptualizations of Formal Argumentation (Invited Talk), at Logic & AI Seminar, University of Bergen, Norway
 - **2024.06** Weakest Link, Prioritised Default Logic, and Principles in Argumentation (Invited Talk), at The Fourth International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2024), Zhejiang University, China
 - **2024.03** Distributed Argumentation Technology, at 6th Madeira Workshop on Belief Revision, Argumentation, Ontologies, and Norms, Madeira, Portugal

@@ -55,7 +55,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2024.04 – 2024.06** Master Course on *Intelligent Agents 1*, the University of Luxembourg, Luxembourg
 
 ### Academic Visits
-- **2024.10** Department of Information Science and Media Studies, University of Bergen
+- **2024.10** Department of Information Science and Media Studies, University of Bergen, Norway
 - **2023.11** Computer Science Department, Cadi Ayyad University, Morocco
 - **2023.10** Artificial Intelligence and Data Engineering Department, Özyeğin University, Turkey
 - **2023.07** National Institute of Informatics, Tokyo, Japan

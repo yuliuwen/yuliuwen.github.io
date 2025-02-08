@@ -1,0 +1,8 @@
+@article{pardo2025weakest,
+  title={Weakest link, prioritized default logic and principles in argumentation},
+  author={Pardo, Pere and Yu, Liuwen and Chen, Chen and van der Torre, Leendert},
+  journal={Journal of Logic and Computation},
+  pages={exaf007},
+  year={2025},
+  publisher={Oxford University Press}
+}

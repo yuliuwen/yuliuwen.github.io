@@ -10,7 +10,9 @@ main:
   - title: "Weakest Link, Prioritised Default Logic and Principles in Argumentation"
     authors: Pere PARDO, <strong>Liuwen YU</strong>, Chen CHEN, Leendert VAN DER TORRE
     conference: Journal of Logic and Computation
-    notes: Forthcoming
+    page: https://academic.oup.com/logcom/advance-article-abstract/doi/10.1093/logcom/exaf007/7997085?login=false
+    bibtex: ./assets/files/balancing.txt
+    notes: Published
 
   - title: "Balancing (Normative) Reasons for the Intelligent Human-input-based Blockchain Oracle"
     authors: Vincent DE WIT, <strong>Liuwen YU</strong>, Réka MARKOVICH, Amro NAJJAR

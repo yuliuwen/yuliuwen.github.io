@@ -2,8 +2,8 @@ main:
 
   - title: "Thirteen Challenges in Formal and Computational Argumentation"
     authors: <strong>Liuwen YU</strong>, Réka MARKOVICH, Leendert VAN DER TORRE
-    conference: Handbbook of Formal Argumentation Vol. 3. / Journal of Applied Logics
-    pdf: ./assets/files/HOFA3_Chapter_Thirteen_Challenges (43).pdf
+    conference: Handbook of Formal Argumentation Vol. 3. / Journal of Applied Logics
+    pdf: ./assets/files/HOFA3_Chapter_Thirteen_Challenges.pdf
     notes: Forthcoming
     
 

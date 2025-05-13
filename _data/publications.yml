@@ -1,6 +1,18 @@
 main:
 
-   - title: "Rational Monotony in Input Output Logics"
+
+
+  - title: "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large"
+    authors: <strong>Liuwen YU</strong>, Davide Liga, Réka Markovich
+    conference: The 20th International Conference on Artificial Intelligence and Law
+    notes: Forthcoming 
+  
+  - title: "The A-BDI Metamodel for Human-Level AI: Argumentation as Balancing, Dialogue and Inference"
+    authors: <strong>Liuwen YU</strong>, Leendert van der Torre
+    conference: 6th International Conference on Logic and Argumentation
+    notes: Forthcoming 
+  
+  - title: "Rational Monotony in Input Output Logics"
     authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference: The 17th International Conference on Deontic Logic and Normative Systems
     notes: Forthcoming

@@ -61,7 +61,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2023.07** National Institute of Informatics, Tokyo, Japan
 - **2022.10** Centre de Recherche en Informatique de Lens, France
 - **2023.12, 2023.07** Department of Informatics, Kyoto University, Japan
-- **2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
+- **2025。06, 2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
 
 ### Talks
 - **2025.06** Artificial General Intelligence and Law (Invited Talk, co-presented with Leon van der Torre), at Global Artificial Intelligence Technology Conference, Forum on Law and Artificial Intelligence, Hangzhou, China 

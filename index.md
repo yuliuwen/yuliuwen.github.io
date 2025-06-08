@@ -64,6 +64,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
 
 ### Talks
+- **2025.06** Artificial General Intelligence and Law (Invited Talk, co-presented with Leon van der Torre), at Global Artificial Intelligence Technology Conference, Forum on Law and Artificial Intelligence, Hangzhou, China 
 - **2025.03** Conceptualizations and challenges for distributed argumentation technology (Invited Talk), at Online Seminar on Computational Models of Argument (OSCMART)
 - **2025.02** Generating Explanations with Hybrid AI to Support the Right to Challenge, at 1st LoDEx Workshop on Logical Methods for Deontic Explanations, Ruhr-Universität Bochum, Germany
 - **2024.10** Three Conceptualizations of Formal Argumentation (Invited Talk), at Logic & AI Seminar, University of Bergen, Norway

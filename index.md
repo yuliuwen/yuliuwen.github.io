@@ -25,7 +25,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **2019.11 – 2022.10** Doctoral researcher in Law, Science and Technology Joint Doctorate: Rights of Internet of Everything, funded under the (Horizon 2020) Marie Skłodowska-Curie Action - Innovative Training Network (LAST-JD-RIoE-MSCA-ITN), EU Grant No. 814177
 
 ## Obtained Funding
-- **2024** SERAFIN - Symbolic and Explainable Regulatory AI for Finance Innovation, FNR CORE (Project budget: 598K Euros)
+- **2024** Contribute to SERAFIN - Symbolic and Explainable Regulatory AI for Finance Innovation, FNR CORE (Project budget: 598K Euros)
 
 ## Academic Service
 - PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025 Forthcoming).

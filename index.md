@@ -29,7 +29,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 ## Academic Service
 - PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025 Forthcoming).
-- PC Member of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
+- Reviewer of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
 - Reviewer for the 24th International Conference on Autonomous Agents and Multiagent Systems 2025 (AAMAS 2025).
 - Reviewer for the 6th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2024).
 - PC Chair of the 2024 workshop on Causality, Agents and Large Models (CALM 2024).
@@ -61,7 +61,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2023.07** National Institute of Informatics, Tokyo, Japan
 - **2022.10** Centre de Recherche en Informatique de Lens, France
 - **2023.12, 2023.07** Department of Informatics, Kyoto University, Japan
-- **2025。06, 2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
+- **2025.06, 2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
 
 ### Talks
 - **2025.06** Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering, at the 20th International Conference on AI and Law, Chicago, America 

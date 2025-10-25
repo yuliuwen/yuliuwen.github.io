@@ -1,5 +1,15 @@
 main:
-
+  
+  - title: "Contrary-to-Duty Rights: From Hohfeld To Agreement Revision"
+    authors: Huimin Dong, Leendert van der Torre, <strong>Liuwen YU</strong>
+    conference: The 38th International Conference on Legal Knowledge and Information Systems
+    notes: Upcoming 
+  
+  
+  - title: "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering"
+    authors: Davide Liga, <strong>Liuwen YU</strong>
+    conference: The 38th International Conference on Legal Knowledge and Information Systems
+    notes: Upcoming 
 
 
   - title: "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering"

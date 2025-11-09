@@ -1,5 +1,11 @@
 main:
 
+  - title: "A Logical Analysis of an Information Filtering Architecture Based on Epistemic Trust Inference"
+    authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI2026)
+    notes: Upcoming 
+
+    
   - title: "Agent defense in abstract argumentation: Semantics and principle-based analysis"
     authors: <strong>Liuwen YU</strong>, Xu LI, Leendert VAN DER TORRE
     conference: Journal of Argument & Computation

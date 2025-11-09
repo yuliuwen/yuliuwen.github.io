@@ -12,8 +12,9 @@ main:
   
   - title: "Contrary-to-Duty Rights: From Hohfeld To Agreement Revision"
     authors: Huimin Dong, Leendert van der Torre, <strong>Liuwen YU</strong>
-    conference: The 38th International Conference on Legal Knowledge and Information Systems
-    notes: Upcoming 
+    conference: Deontic Logic and Normative Systems, 17th International Conference (DEON 2025), pp. 255–272.
+    notes: Published
+    pdf: ./assets/files/DEON2025.pdf
   
   - title: "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering"
     authors: Davide Liga, <strong>Liuwen YU</strong>

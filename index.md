@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About</h2>
 
-I am a postdoctoral researcher at the Department of Computer Science of the University of Luxembourg, where I am a member of the [CLAiM group on Computational Law and Machine Ethics](https://www.uni.lu/fstm-en/research-groups/computational-law-and-machine-ethics/) led by [Dr. Réka Markovich](https://rekamarkovich.github.io/). 
+I am a postdoctoral researcher at Luxembourg Institute of Science and Technology, where I am a member of the Trustworthy AI Group. 
 
 I am an AI researcher focusing on symbolic and hybrid approaches for human-level and human-centered AI in application areas like digital transformation of law and finance. 
 

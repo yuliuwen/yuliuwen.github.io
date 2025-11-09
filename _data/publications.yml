@@ -4,7 +4,6 @@ main:
     authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI2026)
     notes: Upcoming 
-
     
   - title: "Agent defense in abstract argumentation: Semantics and principle-based analysis"
     authors: <strong>Liuwen YU</strong>, Xu LI, Leendert VAN DER TORRE
@@ -16,12 +15,10 @@ main:
     conference: The 38th International Conference on Legal Knowledge and Information Systems
     notes: Upcoming 
   
-  
   - title: "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering"
     authors: Davide Liga, <strong>Liuwen YU</strong>
     conference: The 38th International Conference on Legal Knowledge and Information Systems
     notes: Upcoming 
-
 
   - title: "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering"
     authors: <strong>Liuwen YU</strong>, Davide Liga, Réka Markovich
@@ -38,27 +35,19 @@ main:
     conference: The 17th International Conference on Deontic Logic and Normative Systems
     notes: Forthcoming
   
-  
-  
   - title: "Thirteen Challenges in Formal and Computational Argumentation"
     authors: <strong>Liuwen YU</strong>, Réka MARKOVICH, Leendert VAN DER TORRE
     conference: Handbook of Formal Argumentation Vol. 3. / Journal of Applied Logics
     pdf: ./assets/files/HOFA3_Chapter_Thirteen_Challenges.pdf
     
-    
-
   - title: "Balancing (Normative) Reasons for the Intelligent Human-input-based Blockchain Oracle"
     authors: Vincent DE WIT, <strong>Liuwen YU</strong>, Réka MARKOVICH, Amro NAJJAR
     conference: Causality, Agents and Large Models 2024 (CALM 2024) Proceedings
     
-    
-
   - title: "Assessing the Robustness of LLMs in Predicting Supports and Attacks"
     authors: Benoît ALCARAZ, Aria NOURBAKHSH, <strong>Liuwen YU</strong>
     conference: Causality, Agents and Large Models 2024 (CALM 2024) Proceedings
-    
-
-    
+  
   - title: "Weakest Link, Prioritised Default Logic and Principles in Argumentation"
     authors: Pere PARDO, <strong>Liuwen YU</strong>, Chen CHEN, Leendert VAN DER TORRE
     conference: Journal of Logic and Computation (2025).

@@ -29,7 +29,7 @@ main:
     authors: <strong>Liuwen YU</strong>, Leendert van der Torre
     conference: International Conference on Logic and Argumentation (2025), pp. 361–379.
     notes: Published
-    pdf: 
+    pdf: ./assets/files/CLAR2025.pdf
   
   - title: "Rational Monotony in Input Output Logics"
     authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>

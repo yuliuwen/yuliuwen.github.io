@@ -20,7 +20,8 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China
 
 ## Participating In Research Grants 
-- **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project (PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/))
+- **2025.11 – 2027.11** Postdoctoral researcher, SERAFIN (Symbolic and Explainable Regulatory AI for Finance Innovation), Fonds National de la Recherche (FNR) CORE research, Grant No. C24/19003061/SERAFIN, PI: [Prof. Dr. Leon van der Torre](https://icr.uni.lu/leonvandertorre/index.html)
+- **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project, PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/)
 - **2024.04 – 2024.09** Postdoctoral researcher, Deontic Logic for Epistemic Rights (DELIGHT), Fonds National de la Recherche (FNR) OPEN research, Grant No. O20/14776480
 - **2019.11 – 2022.10** Doctoral researcher in Law, Science and Technology Joint Doctorate: Rights of Internet of Everything, funded under the (Horizon 2020) Marie Skłodowska-Curie Action - Innovative Training Network (LAST-JD-RIoE-MSCA-ITN), EU Grant No. 814177
 

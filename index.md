@@ -58,7 +58,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 ### Teaching Profile and Activities
 I enjoy **both research-based teaching and foundational teaching**. My research-based teaching focuses on advanced topics in knowledge representation and reasoning, including logic and formal argumentation in AI. Additionally, I contribute to foundational education by coordinating textbook drafting and teaching core subjects in computer science, such as discrete mathematics, propositional logic, and first-order logic.
 
-- **2026.08** Course on *Logic and Argumentation for New-generation AI* at **European Summer School for Logic, Language, and Information 2026** (ESSLLI 2025), Prague
+- **2026.08** Course on *Logic and Argumentation for New-generation AI* at **European Summer School for Logic, Language, and Information 2026** (ESSLLI 2025), Prague (upcoming)
 - **2025.06** Course on *From Logic to Argumentation in AI* at **North American Summer School in Logic, Language, and Information 2025** (NASSLI 2025), Washington University, the United States
 - **2024.09 – 2024.12** Master Course on *Intelligent Systems: Agents and Reasoning*, the University of Luxembourg, Luxembourg
 - **2024.04 – 2024.06** Doctoral Course on *Introduction to Formal and Computational Argumentation*, the University of Luxembourg, Luxembourg
@@ -74,6 +74,8 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2025.06, 2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
 
 ### Talks
+- **2025.12** Contrary-to-Duty Rights: From Hohfeld To Agreement Revision, at the 38th International Conference on Legal Knowledge and Information Systems (JURIX 2025).
+- **2025.12** A Principle–Based Robustness Analysis of Labeling–Based Bipolar Argumentation Semantics, at the Luxembourg Logic & AI Summit (LUXLOGAI 2026).
 - **2025.11** Reasons and Arguments in Artificial Intelligence (Invited talk, together with Leon van der Torre), at the international research workshop of The Weight of Reasons and Normative Reasoning.
 - **2025.06** Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering, at the 20th International Conference on AI and Law, Chicago, America 
 - **2025.06** Artificial General Intelligence and Law (Invited Talk, co-presented with Leon van der Torre), at Global Artificial Intelligence Technology Conference, Forum on Law and Artificial Intelligence, Hangzhou, China 

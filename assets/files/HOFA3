@@ -1,0 +1,9 @@
+@incollection{yu2024thirteen,
+  author    = {Liuwen Yu and Leendert van der Torre and Réka Markovich},
+  title     = {Thirteen Challenges in Formal and Computational Argumentation},
+  booktitle = {Handbook of Formal Argumentation, Volume 3},
+  editor    = {Dov Gabbay and Gabriele Kern-Isberner and Guillermo R. Simari and Matthias Thimm},
+  publisher = {College Publications},
+  year      = {2024},
+  pages     = {890--976}
+}

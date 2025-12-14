@@ -42,9 +42,9 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 ### Conference Organization
 - **2025** LUXLOGAI 2025 in Luxembourg: https://icr.uni.lu/luxlogai2025/index.html
-- **2025** LNGAI 2025 in Luxembourg
-- **2025** CALM 2025 in Luxembourg
-- **2024** CALM 2024 in Kyoto, Japan
+- **2025** LNGAI 2025 in Luxembourg: https://www.zlaire.net/lngai2025/
+- **2025** CALM 2025 in Luxembourg: https://www.ciad-lab.fr/the-2nd-international-workshop-on-causality-agents-and-large-models-calm/
+- **2024** CALM 2024 in Kyoto, Japan: https://www.ciad-lab.fr/prima-causal-ai-workshop/
 - **2023** ICR & CLAiM workshop on Distributed Argumentation Technology
 - **2023** Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop
 

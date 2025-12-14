@@ -20,28 +20,36 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China
 
 ## Participating In Research Grants 
-- As a main co-author of RECALL – Reasoning and Explaining CAusality and Liability through Legal Ai (PI: Réka Markovich, Co-PI: Amro Najjar), Fonds National de la Recherche (FNR) CORE research, 2026-2029
 - **2025.11 – 2027.11** Postdoctoral researcher, SERAFIN (Symbolic and Explainable Regulatory AI for Finance Innovation), Fonds National de la Recherche (FNR) CORE research, Grant No. C24/19003061/SERAFIN, PI: [Prof. Dr. Leon van der Torre](https://icr.uni.lu/leonvandertorre/index.html)
 - **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project, PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/)
 - **2024.04 – 2024.09** Postdoctoral researcher, Deontic Logic for Epistemic Rights (DELIGHT), Fonds National de la Recherche (FNR) OPEN research, Grant No. O20/14776480
 - **2019.11 – 2022.10** Doctoral researcher in Law, Science and Technology Joint Doctorate: Rights of Internet of Everything, funded under the (Horizon 2020) Marie Skłodowska-Curie Action - Innovative Training Network (LAST-JD-RIoE-MSCA-ITN), EU Grant No. 814177
 
 ## Obtained Funding
-- **2024** Main author and contributor to SERAFIN - Symbolic and Explainable Regulatory AI for Finance Innovation, FNR CORE (Project budget: 598K Euros)
+- **2025** Main co-author to RECALL – Reasoning and Explaining CAusality and Liability through Legal Ai  FNR CORE, PI: Réka Markovich, Co-PI: Amro Najjar
+- **2024** Main co-author to SERAFIN - Symbolic and Explainable Regulatory AI for Finance Innovation, FNR CORE, PI: Leon van der Torre, Co-PI: Ankit Arora, Project budget: 598K Euros
 
-## Academic Service
-- PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025 Forthcoming).
+
+## Additional Information
+### Academic Service
+- Editor of Logic for New-generation AI, Fifth International Workshop, December 1-5 2025, Luxembourg
+- PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025).
+- PC Chair of the 2nd International Workshop on on Causality, Agents and Large Models (CALM 2025).
 - Reviewer of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
-- Reviewer for the 24th International Conference on Autonomous Agents and Multiagent Systems 2025 (AAMAS 2025).
 - Reviewer for the 6th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2024).
 - PC Chair of the 2024 workshop on Causality, Agents and Large Models (CALM 2024).
 - Editor of the Computer and Information Science (CCIS) post-proceedings for CALM 2024.
 
-## Additional Information
-### Organisation of scientific meetings
-- **2024** CALM 2024 in Kyoto, Japan.
+### Conference Organization
+- **2025** LUXLOGAI 2025 in Luxembourg: https://icr.uni.lu/luxlogai2025/index.html
+- **2025** LNGAI 2025 in Luxembourg
+- **2025** CALM 2025 in Luxembourg
+- **2024** CALM 2024 in Kyoto, Japan
 - **2023** ICR & CLAiM workshop on Distributed Argumentation Technology
-- **2023** Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop. 
+- **2023** Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop
+
+### Other Academic Services
+IJCAI 2025, AAMAS 2025, EXTRAAMA 2024
 
 ### Supervision of students
 - **2024** Tutor for Velija Delikj's bachelor semester project on autonomous cars

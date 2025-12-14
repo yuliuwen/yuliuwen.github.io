@@ -20,6 +20,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China
 
 ## Participating In Research Grants 
+- As a main co-author of RECALL – Reasoning and Explaining CAusality and Liability through Legal Ai (PI: Réka Markovich, Co-PI: Amro Najjar), Fonds National de la Recherche (FNR) CORE research, 2026-2029
 - **2025.11 – 2027.11** Postdoctoral researcher, SERAFIN (Symbolic and Explainable Regulatory AI for Finance Innovation), Fonds National de la Recherche (FNR) CORE research, Grant No. C24/19003061/SERAFIN, PI: [Prof. Dr. Leon van der Torre](https://icr.uni.lu/leonvandertorre/index.html)
 - **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project, PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/)
 - **2024.04 – 2024.09** Postdoctoral researcher, Deontic Logic for Epistemic Rights (DELIGHT), Fonds National de la Recherche (FNR) OPEN research, Grant No. O20/14776480

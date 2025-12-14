@@ -33,12 +33,13 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 ## Additional Information
 ### Academic Service
 - Editor of Logic for New-generation AI, Fifth International Workshop, December 1-5 2025, Luxembourg
+- Editor of the Computer and Information Science (CCIS) post-proceedings for CALM 2024.
 - PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025).
 - PC Chair of the 2nd International Workshop on on Causality, Agents and Large Models (CALM 2025).
+- PC Chair of the 2024 workshop on Causality, Agents and Large Models (CALM 2024).
 - Reviewer of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
 - Reviewer for the 6th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2024).
-- PC Chair of the 2024 workshop on Causality, Agents and Large Models (CALM 2024).
-- Editor of the Computer and Information Science (CCIS) post-proceedings for CALM 2024.
+
 
 ### Conference Organization
 - **2025** LUXLOGAI 2025 in Luxembourg: https://icr.uni.lu/luxlogai2025/index.html
@@ -48,17 +49,16 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **2023** ICR & CLAiM workshop on Distributed Argumentation Technology
 - **2023** Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop
 
-### Other Academic Services
-IJCAI 2025, AAMAS 2025, EXTRAAMA 2024
-
 ### Supervision of students
+- **2025 - present** Daily supervisor for Thomas Løye Skafte (doctoral researcher)
 - **2024** Tutor for Velija Delikj's bachelor semester project on autonomous cars
-- **2022 - present** Advisor for Vincent de Wit, a doctoral researcher
+- **2022 - present** Advisor for Vincent de Wit (doctoral researcher)
 - **2023 - present** Advisor for master's and PhD students from Zhejiang University through ZLAIRE
 
 ### Teaching Profile and Activities
 I enjoy **both research-based teaching and foundational teaching**. My research-based teaching focuses on advanced topics in knowledge representation and reasoning, including logic and formal argumentation in AI. Additionally, I contribute to foundational education by coordinating textbook drafting and teaching core subjects in computer science, such as discrete mathematics, propositional logic, and first-order logic.
 
+- **2026.08** Course on *Logic and Argumentation for New-generation AI* at **European Summer School for Logic, Language, and Information 2026** (ESSLLI 2025), Prague
 - **2025.06** Course on *From Logic to Argumentation in AI* at **North American Summer School in Logic, Language, and Information 2025** (NASSLI 2025), Washington University, the United States
 - **2024.09 – 2024.12** Master Course on *Intelligent Systems: Agents and Reasoning*, the University of Luxembourg, Luxembourg
 - **2024.04 – 2024.06** Doctoral Course on *Introduction to Formal and Computational Argumentation*, the University of Luxembourg, Luxembourg

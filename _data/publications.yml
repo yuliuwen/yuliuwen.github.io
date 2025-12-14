@@ -21,6 +21,16 @@ main:
     conference: The 38th International Conference on Legal Knowledge and Information Systems
     notes: Upcoming 
 
+  - title: "DiSCo–RAD: Reasoning Alignment for Judicial Discretion"
+    authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO, Chenyang CAI
+    conference: The Proceedings of the Fifth International Workshop on Logics for New-Generation Artificial Intelligence
+    pdf: ./assets/files/LNGAI00005.pdf
+    
+  - title: "A Principle-Based Robustness Analysis of Labeling-Based Bipolar Argumentation Semantics"
+    authors: Caren Al ANAISSY, Chen CHEN, Srdjan VESIC, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
+    conference: The Proceedings of the Fifth International Workshop on Logics for New-Generation Artificial Intelligence
+    pdf: ./assets/files/LNGAI00005.pdf
+
   - title: "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering"
     authors: <strong>Liuwen YU</strong>, Davide Liga, Réka Markovich
     conference: The 20th International Conference on Artificial Intelligence and Law

@@ -34,6 +34,13 @@ main:
     bibtex: ./assets/files/ifcolog00074.txt
     notes: Published  
 
+  - title: "Logics for New-Generation AI (Book)"
+    authors: Beishui Liao, Antonino Rotolo, Leendert van der Torre, <strong>Liuwen YU</strong> (editors)
+    conference: Fifth International Workshop. December 1-5 2025, Luxembourg
+    pdf: ./assets/files/LNGAI00005.pdf
+    page: https://www.collegepublications.co.uk/LNGAI/?00005
+    notes: Published
+
   - title: "DiSCo–RAD: Reasoning Alignment for Judicial Discretion"
     authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO, Chenyang CAI
     conference: The Proceedings of the Fifth International Workshop on Logics for New-Generation Artificial Intelligence

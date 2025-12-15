@@ -9,6 +9,14 @@ main:
     authors: <strong>Liuwen YU</strong>, Xu LI, Leendert VAN DER TORRE
     conference: Journal of Argument & Computation
     notes: Upcoming 
+
+   - title: "Reasoning Alignment for Agentic AI: Argumentation, Belief Revision, and Dialogue"
+    authors: Rienstra Tjitze, Leendert van der Torre, <strong>Liuwen YU</strong>
+    conference: Journal of Applied Logics - IfCoLog Journal, 12(6), 1683–1712.
+    pdf: ./assets/files/ifcolog00074.pdf
+    page: https://www.collegepublications.co.uk/ifcolog/?00074
+    bibtex: ./assets/files/ifcolog00074.txt
+    notes: Published   
   
   - title: "Contrary-to-Duty Rights: From Hohfeld To Agreement Revision"
     authors: Huimin Dong, Leendert van der Torre, <strong>Liuwen YU</strong>

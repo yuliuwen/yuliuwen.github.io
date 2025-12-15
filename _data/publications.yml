@@ -37,7 +37,7 @@ main:
   - title: "DiSCo–RAD: Reasoning Alignment for Judicial Discretion"
     authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO, Chenyang CAI
     conference: The Proceedings of the Fifth International Workshop on Logics for New-Generation Artificial Intelligence
-    pdf: ./assets/files/LNGAI00005.pdf
+    pdf: ./assets/files/LNGAI2025_constitutional_court_argumentation.pdf
     page: https://www.collegepublications.co.uk/LNGAI/?00005
     notes: Published
     
@@ -45,7 +45,7 @@ main:
   - title: "A Principle-Based Robustness Analysis of Labeling-Based Bipolar Argumentation Semantics"
     authors: Caren Al ANAISSY, Chen CHEN, Srdjan VESIC, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference: The Proceedings of the Fifth International Workshop on Logics for New-Generation Artificial Intelligence
-    pdf: ./assets/files/LNGAI00005.pdf
+    pdf: ./assets/files/LNGAI2025_robustness.pdf
     page: https://www.collegepublications.co.uk/LNGAI/?00005
     notes: Published
     

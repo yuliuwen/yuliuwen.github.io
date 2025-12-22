@@ -1,4 +1,13 @@
 main:
+  - title: "Balancing for Agent Decision Making through Argumentation"
+    authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Chenyang CAI
+    conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
+    notes: Upcoming 
+    
+  - title: "Disobedience in normative multi-agent systems"
+    authors: Marija SLAVKOVIK, <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO
+    conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
+    notes: Upcoming 
 
   - title: "A Logical Analysis of an Information Filtering Architecture Based on Epistemic Trust Inference"
     authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>

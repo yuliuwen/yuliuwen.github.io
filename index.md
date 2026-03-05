@@ -32,14 +32,12 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 ## Additional Information
 ### Academic Service
-- Editor of Logic for New-generation AI, Fifth International Workshop, December 1-5 2025, Luxembourg
-- Editor of the Computer and Information Science (CCIS) post-proceedings for CALM 2024.
-- PC Chair of the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025).
-- PC Chair of the 2nd International Workshop on on Causality, Agents and Large Models (CALM 2025).
-- PC Chair of the 2024 workshop on Causality, Agents and Large Models (CALM 2024).
-- Reviewer of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
-- Reviewer for the 6th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2024).
-
+- Corner Editor: Journal of Logic and Computation – AI logic
+- Editor: Logic for New-generation AI, Fifth International Workshop, December 1-5 2025, Luxembourg
+- Editor: Computer and Information Science (CCIS) post-proceedings for CALM 2024.
+- PC Chair: the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025).
+- PC Chair: the 1st and 2nd International Workshop on on Causality, Agents and Large Models (CALM 2024 & 2025).
+- Reviewer: IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, etc.
 
 ### Conference Organization
 - **2025** LUXLOGAI 2025 in Luxembourg: https://icr.uni.lu/luxlogai2025/index.html
@@ -74,6 +72,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2025.06, 2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
 
 ### Talks
+- **2026.01** SCALE: A Framework for AI and Law Alignment, at AAAI bridge program of AI and Law, Singapore.
 - **2025.12** Contrary-to-Duty Rights: From Hohfeld To Agreement Revision, at the 38th International Conference on Legal Knowledge and Information Systems (JURIX 2025).
 - **2025.12** A Principle–Based Robustness Analysis of Labeling–Based Bipolar Argumentation Semantics, at the Luxembourg Logic & AI Summit (LUXLOGAI 2025).
 - **2025.11** Reasons and Arguments in Artificial Intelligence (Invited talk, together with Leon van der Torre), at the international research workshop of The Weight of Reasons and Normative Reasoning.

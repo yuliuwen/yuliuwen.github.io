@@ -36,7 +36,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - Editor: Logic for New-generation AI, Fifth International Workshop, December 1-5 2025, Luxembourg
 - Editor: Computer and Information Science (CCIS) post-proceedings for CALM 2024.
 - PC Chair: the 5th International Workshop on Logics for New-Generation Artificial Intelligence (LNGAI 2025).
-- PC Chair: the 1st and 2nd International Workshop on on Causality, Agents and Large Models (CALM 2024 & 2025).
+- PC Chair: the 1st and 2nd International Workshop on Causality, Agents and Large Models (CALM 2024 & 2025).
 - Reviewer: IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, etc.
 
 ### Conference Organization

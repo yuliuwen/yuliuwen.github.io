@@ -8,16 +8,18 @@ main:
     authors: Marija SLAVKOVIK, <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO
     conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
     notes: Upcoming 
-
-  - title: "A Logical Analysis of an Information Filtering Architecture Based on Epistemic Trust Inference"
-    authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
-    conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI2026)
-    notes: Upcoming 
     
   - title: "Agent defense in abstract argumentation: Semantics and principle-based analysis"
     authors: <strong>Liuwen YU</strong>, Xu LI, Leendert VAN DER TORRE
     conference: Journal of Argument & Computation
     notes: Upcoming  
+
+  - title: "A Logical Analysis of an Information Filtering Architecture Based on Epistemic Trust Inference"
+    authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI2026)
+    pdf: ./assets/files/aaai2026.pdf
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/39001
+    notes: Published
   
   - title: "Contrary-to-Duty Rights: From Hohfeld To Agreement Revision"
     authors: Huimin Dong, Leendert van der Torre, <strong>Liuwen YU</strong>

@@ -19,6 +19,7 @@ main:
     conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI2026)
     pdf: ./assets/files/aaai2026.pdf
     page: https://ojs.aaai.org/index.php/AAAI/article/view/39001
+    bibtex: ./assets/files/aaai2026.txt
     notes: Published
   
   - title: "Contrary-to-Duty Rights: From Hohfeld To Agreement Revision"

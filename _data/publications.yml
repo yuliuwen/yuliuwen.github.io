@@ -1,4 +1,9 @@
 main:
+  - title: "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning"
+    authors: Davide Liga, Réka Markovich, <strong>Liuwen YU</strong>
+    conference: Logical and Symbolic Reasoning in Language Models@ AAAI 2026
+    notes: Upcoming 
+    
   - title: "Balancing for Agent Decision Making through Argumentation"
     authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Chenyang CAI
     conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
@@ -24,7 +29,7 @@ main:
   
   - title: "Contrary-to-Duty Rights: From Hohfeld To Agreement Revision"
     authors: Huimin Dong, Leendert van der Torre, <strong>Liuwen YU</strong>
-    conference: Deontic Logic and Normative Systems, 17th International Conference (DEON 2025), pp. 255–272.
+    conference: The 38th International Conference on Legal Knowledge and Information Systems (JURIX2025)
     pdf: ./assets/files/JURIX20252.pdf
     page: https://ebooks.iospress.nl/volumearticle/76884
     bibtex: ./assets/files/JURIX20252.txt
@@ -32,7 +37,7 @@ main:
   
   - title: "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering"
     authors: Davide Liga, <strong>Liuwen YU</strong>
-    conference: The 38th International Conference on Legal Knowledge and Information Systems
+    conference: The 38th International Conference on Legal Knowledge and Information Systems (JURIX2025)
     pdf: ./assets/files/JURIX20251.pdf
     page: https://ebooks.iospress.nl/doi/10.3233/FAIA251581
     bibtex: ./assets/files/JURIX20251.txt

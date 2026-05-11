@@ -1,23 +1,23 @@
 main:
   - title: "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning"
     authors: Davide Liga, Réka Markovich, <strong>Liuwen YU</strong>
-    conference: Logical and Symbolic Reasoning in Language Models@ AAAI 2026
+    conference: Logical and Symbolic Reasoning in Language Models @ AAAI 2026
     notes: Upcoming 
     
   - title: "Balancing for Agent Decision Making through Argumentation"
     authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Chenyang CAI
     conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
-    notes: Upcoming 
+    pdf: ./assets/files/aamas2026.pdf
     
   - title: "Disobedience in normative multi-agent systems"
     authors: Marija SLAVKOVIK, <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO
     conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
-    notes: Upcoming 
+    notes: ./assets/files/dis2026.pdf
     
   - title: "Agent defense in abstract argumentation: Semantics and principle-based analysis"
     authors: <strong>Liuwen YU</strong>, Xu LI, Leendert VAN DER TORRE
     conference: Journal of Argument & Computation
-    notes: Upcoming  
+    notes: ./assets/files/agent2026.pdf
 
   - title: "A Logical Analysis of an Information Filtering Architecture Based on Epistemic Trust Inference"
     authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>

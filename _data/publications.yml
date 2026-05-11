@@ -12,7 +12,7 @@ main:
   - title: "Disobedience in normative multi-agent systems"
     authors: Marija SLAVKOVIK, <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO
     conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
-    pdf: ./assets/files/dis2026.pdf
+    pdf: ./assets/files/AAMAS2026_disobedience.pdf
     
   - title: "Agent defense in abstract argumentation: Semantics and principle-based analysis"
     authors: <strong>Liuwen YU</strong>, Xu LI, Leendert VAN DER TORRE

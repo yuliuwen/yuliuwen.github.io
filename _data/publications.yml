@@ -1,4 +1,12 @@
 main:
+
+  - title: "Whistleblowing and the Machine--Towards a Considered Position"
+    authors: Marija Slavkovik, <strong>Liuwen YU</strong>, Leon van der Torre, Réka Markovich
+    conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
+    pdf: ./assets/files/whistleblowing.pdf
+    page: https://arxiv.org/abs/2606.21201
+    notes: Preprint
+    
   - title: "Hierarchical Institutions for Contract Invalidity"
     authors: Huimin Dong, Réka Markovich, Leon van der Torre, <strong>Liuwen YU</strong>
     conference: Local Proceedings of the 20th International Workshop on Juris-Informatics (JURISIN 2026)

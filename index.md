@@ -32,20 +32,20 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 ## Additional Information
 ### Academic Service
-- Corner Editor: Journal of Logic and Computation — AI Logic
-- Editor & PC Chair:
-  - Logic and Argumentation for New-generation AI, Sixth International Workshop, September 17th 2026, Barcelona, Spain
-  - Logic for New-generation AI, Fifth International Workshop, December 1–5 2025, Luxembourg
-  - 1st and 2nd International Workshop on Causality, Agents and Large Models (CALM 2024 & 2025), including CCIS post-proceedings for CALM 2024
-- PC member: IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, etc.
+- Corner Editor, *Journal of Logic and Computation* — AI Logic
+- Editor and PC Chair:
+  - Sixth International Workshop on Logic and Argumentation for New-generation AI, Barcelona, Spain, September 17, 2026
+  - Fifth International Workshop on Logic for New-generation AI, Luxembourg, December 1–5, 2025
+  - First and Second International Workshops on Causality, Agents and Large Models (CALM 2024 and CALM 2025), including the CCIS post-proceedings for CALM 2024
+- Program Committee member: IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, and other venues
 
 ### Conference Organization
-- **2025** LUXLOGAI 2025 in Luxembourg: https://icr.uni.lu/luxlogai2025/index.html
-- **2025** LNGAI 2025 in Luxembourg: https://www.zlaire.net/lngai2025/
-- **2025** CALM 2025 in Luxembourg: https://www.ciad-lab.fr/the-2nd-international-workshop-on-causality-agents-and-large-models-calm/
-- **2024** CALM 2024 in Kyoto, Japan: https://www.ciad-lab.fr/prima-causal-ai-workshop/
-- **2023** ICR & CLAiM workshop on Distributed Argumentation Technology
-- **2023** Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop
+- **2025** [LUXLOGAI 2025, Luxembourg](https://icr.uni.lu/luxlogai2025/index.html)
+- **2025** [LNGAI 2025, Luxembourg](https://www.zlaire.net/lngai2025/)
+- **2025** [CALM 2025, Luxembourg](https://www.ciad-lab.fr/the-2nd-international-workshop-on-causality-agents-and-large-models-calm/)
+- **2024** [CALM 2024, Kyoto, Japan](https://www.ciad-lab.fr/prima-causal-ai-workshop/)
+- **2023** ICR & CLAiM Workshop on Distributed Argumentation Technology
+- **2023** Zhejiang University–University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop
 
 ### Supervision of students
 - **2025 - present** Daily supervisor for Thomas Løye Skafte (doctoral researcher)

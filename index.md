@@ -63,15 +63,21 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2024.04 – 2024.06** Master Course on *Intelligent Agents 1*, the University of Luxembourg, Luxembourg
 
 ### Academic Visits
+- **2026.05, 2025.12, 2025.06, 2024.06, 2023.12, 2023.06** ZLAIRE, Institute of Logic and Cognition, Zhejiang University, China
 - **2024.10** Department of Information Science and Media Studies, University of Bergen, Norway
 - **2023.11** Computer Science Department, Cadi Ayyad University, Morocco
 - **2023.10** Artificial Intelligence and Data Engineering Department, Özyeğin University, Turkey
 - **2023.07** National Institute of Informatics, Tokyo, Japan
 - **2022.10** Centre de Recherche en Informatique de Lens, France
 - **2023.12, 2023.07** Department of Informatics, Kyoto University, Japan
-- **2025.06, 2024.06, 2023.12, 2023.06** Institute of Logic and Cognition, Zhejiang University, China
+
 
 ### Talks
+- **2026.06** Two-Layer Contract Governance: Object-Level CTD Rights and Meta-Level Contract Invalidity, at JURISIN 2026, Tokyo, Japan.
+- **2026.06** Reason-Aligned Normative Reasoning in LogiKEy: From Balancing Reasons to Epistemic Rights and Duties (together with LEon van der Torre and Luca Pasetto), at the pre-JURISIN Workshop 2026, Tokyo, Japan.
+- **2026.05** CREDO-RAD: Reason-Aligned Reactive Choice and the Logic of Traceable Context Dependence (together with Leon van der Torre), at the 5th Anniversary of ZLAIRE & International Workshop on Logic in Artificial Intelligence, Hangzhou, China.
+- **2026.05** Balancing for Agent Decision Making through Argumentation, at the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), Paphos, Cyprus.
+- **2026.01** Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning (together with Davide Liga), at the AAAI Bridge Program on AI and Law, Singapore.
 - **2026.01** SCALE: A Framework for AI and Law Alignment, at AAAI bridge program of AI and Law, Singapore.
 - **2025.12** Contrary-to-Duty Rights: From Hohfeld To Agreement Revision, at the 38th International Conference on Legal Knowledge and Information Systems (JURIX 2025).
 - **2025.12** A Principle–Based Robustness Analysis of Labeling–Based Bipolar Argumentation Semantics, at the Luxembourg Logic & AI Summit (LUXLOGAI 2025).

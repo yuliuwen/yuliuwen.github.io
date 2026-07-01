@@ -17,7 +17,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg
   - Joint Thesis: "Distributed Argumentation Technology" <a href="assets/files/Thesis_LiuwenYU.pdf" role="button" target="_blank" style="font-size:12px;color: #000000;border: 1px solid #000000;padding-left: 0.5rem;padding-right: 0.5rem;padding-top: 0.1rem;padding-bottom: 0.1rem;">PDF</a >
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
-- **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China
+<!-- - - **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China -->
 
 ## Participating In Research Grants 
 - **2025.11 – 2027.11** Postdoctoral researcher, SERAFIN (Symbolic and Explainable Regulatory AI for Finance Innovation), Fonds National de la Recherche (FNR) CORE research, Grant No. C24/19003061/SERAFIN, PI: [Prof. Dr. Leon van der Torre](https://icr.uni.lu/leonvandertorre/index.html)

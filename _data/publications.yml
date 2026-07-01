@@ -12,7 +12,7 @@ main:
     
   - title: "Whistleblowing and the Machine--Towards a Considered Position"
     authors: Marija Slavkovik, <strong>Liuwen YU</strong>, Leon van der Torre, Réka Markovich
-    conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
+    conference: AAMAS-26 Workshop on Rebellion and Disobedience in AI
     pdf: ./assets/files/whistleblowing.pdf
     page: https://arxiv.org/abs/2606.21201
     notes: Preprint

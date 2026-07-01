@@ -1,5 +1,15 @@
 main:
 
+  - title: "Revealed Epistemic Trust"
+    authors: Xu Li, Leon van der Torre, <strong>Liuwen YU</strong>
+    conference: Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026)
+    notes: Upcoming
+    
+  - title: "Retrieval-Augmented Generation for Financial Regulation via LLM Orchestration and Hybrid Symbolic-Subsymbolic AI"
+    authors: Davide Liga, <strong>Liuwen YU</strong>, Ankit Arora
+    conference: Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026)
+    notes: Upcoming
+    
   - title: "Whistleblowing and the Machine--Towards a Considered Position"
     authors: Marija Slavkovik, <strong>Liuwen YU</strong>, Leon van der Torre, Réka Markovich
     conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)

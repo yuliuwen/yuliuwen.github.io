@@ -32,12 +32,12 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 ## Additional Information
 ### Academic Service
-- Corner Editor: Journal of Logic and Computation – AI logic
-- Editor & PC Chair: Logic and Argumentation for New-generation AI, Sixth International Workshop, September 17th 2026, Barcelona, Spain
-- Editor & PC Chair: Logic for New-generation AI, Fifth International Workshop, December 1-5 2025, Luxembourg
-- Editor: Computer and Information Science (CCIS) post-proceedings for CALM 2024.
-- PC Chair: the 1st and 2nd International Workshop on Causality, Agents and Large Models (CALM 2024 & 2025).
-- Reviewer: IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, etc.
+- Corner Editor: Journal of Logic and Computation — AI Logic
+- Editor & PC Chair:
+  - Logic and Argumentation for New-generation AI, Sixth International Workshop, September 17th 2026, Barcelona, Spain
+  - Logic for New-generation AI, Fifth International Workshop, December 1–5 2025, Luxembourg
+  - 1st and 2nd International Workshop on Causality, Agents and Large Models (CALM 2024 & 2025), including CCIS post-proceedings for CALM 2024
+- PC member: IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, etc.
 
 ### Conference Organization
 - **2025** LUXLOGAI 2025 in Luxembourg: https://icr.uni.lu/luxlogai2025/index.html

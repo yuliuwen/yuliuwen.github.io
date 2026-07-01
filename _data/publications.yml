@@ -2,7 +2,7 @@ main:
   - title: "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning"
     authors: Davide Liga, Réka Markovich, <strong>Liuwen YU</strong>
     conference: Logical and Symbolic Reasoning in Language Models @ AAAI 2026
-    preprint: ./assets/files/2026_AAAI bridge .pdf
+    pdf: ./assets/files/2026_AAAI bridge .pdf
     page: https://openreview.net/forum?id=Ob9A7NusFQ
     bibtex: ./assets/files/aaaibridge_bib.txt
     notes: Published

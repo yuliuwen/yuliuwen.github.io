@@ -1,4 +1,10 @@
 main:
+  - title: "Hierarchical Institutions for Contract Invalidity"
+    authors: Huimin Dong, Réka Markovich, Leon van der Torre, <strong>Liuwen YU</strong>
+    conference: Local Proceedings of the 20th International Workshop on Juris-Informatics (JURISIN 2026)
+    pdf: ./assets/files/2026_JURISIN.pdf
+    notes: Published
+
   - title: "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning"
     authors: Davide Liga, Réka Markovich, <strong>Liuwen YU</strong>
     conference: Logical and Symbolic Reasoning in Language Models @ AAAI 2026

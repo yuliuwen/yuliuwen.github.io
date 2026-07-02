@@ -15,14 +15,14 @@ main:
     notes: Upcoming
     
   - title: "Whistleblowing and the Machine--Towards a Considered Position"
-    authors: Marija Slavkovik, <strong>Liuwen YU</strong>, Leon van der Torre, Réka Markovich
+    authors: Marija Slavkovik, <strong>Liuwen YU</strong>, Leendert van der Torre, Réka Markovich
     conference: AAMAS-26 Workshop on Rebellion and Disobedience in AI
     pdf: ./assets/files/whistleblowing.pdf
     page: https://arxiv.org/abs/2606.21201
     notes: Preprint
     
   - title: "Hierarchical Institutions for Contract Invalidity"
-    authors: Huimin Dong, Réka Markovich, Leon van der Torre, <strong>Liuwen YU</strong>
+    authors: Huimin Dong, Réka Markovich, Leendert van der Torre, <strong>Liuwen YU</strong>
     conference: Local Proceedings of the 20th International Workshop on Juris-Informatics (JURISIN 2026)
     pdf: ./assets/files/2026_JURISIN.pdf
     notes: Published

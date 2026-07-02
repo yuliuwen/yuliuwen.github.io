@@ -1,5 +1,9 @@
 main:
-
+  - title: "The Libra Dialogue Protocol for Comparative Deliberation"
+    authors: Luca Pasetto, Thomas Skate, Leendert van der Torre, <strong>Liuwen YU</strong>
+    conference: 11th International Conference on Computational Models of Argument (COMMA 2026)
+    notes: Upcoming
+    
   - title: "Revealed Epistemic Trust"
     authors: Xu Li, Leon van der Torre, <strong>Liuwen YU</strong>
     conference: Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026)

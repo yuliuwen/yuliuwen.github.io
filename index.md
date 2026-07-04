@@ -12,32 +12,38 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 
 
 
-## Education and Key Qualification
+## Education
 - **Ph.D. Joint Doctorate in LAST-JD-RIoE-MSCA-ITN (Law, Science and Technology Joint Doctorate: Rights of Internet of Everything - funded under the EU's Marie Skłodowska-Curie Action - Innovative Training Network)**, 2019 – 2023, AND
 - **Ph.D. in Computer Science**, 2019 – 2023, [University of Luxembourg](https://www.uni.lu/), Luxembourg
   - Joint Thesis: "Distributed Argumentation Technology" <a href="assets/files/Thesis_LiuwenYU.pdf" role="button" target="_blank" style="font-size:12px;color: #000000;border: 1px solid #000000;padding-left: 0.5rem;padding-right: 0.5rem;padding-top: 0.1rem;padding-bottom: 0.1rem;">PDF</a >
 - **M.Sc. in Philosophy**, 2016 - 2018, [Zhejiang University](https://www.zju.edu.cn/), China
 <!-- - - **B.Sc. in Information Systems and Information Management**, 2012 - 2016, [Jiaxing University](https://www.zjxu.edu.cn/), China -->
 
-## Participating In Research Grants 
+## Research Grants
+
+### Grant-Funded Research Projects
 - **2025.11 – 2027.11** Postdoctoral researcher, SERAFIN (Symbolic and Explainable Regulatory AI for Finance Innovation), Fonds National de la Recherche (FNR) CORE research, Grant No. C24/19003061/SERAFIN, PI: [Prof. Dr. Leon van der Torre](https://icr.uni.lu/leonvandertorre/index.html)
 - **2024.11 – 2025.10** Postdoctoral researcher, DISCREASON (Formal Analysis of Discretionary Reasoning – Deontic Logic and Formal Argumentation for Modeling Discretionary Decision-making in Legal Cases), Marie Speyer Excellence grant project, PI: [Dr. Réka Markovich](https://rekamarkovich.github.io/)
 - **2023.11 – 2024.10** Postdoctoral researcher, Deontic Logic for Epistemic Rights (DELIGHT), Fonds National de la Recherche (FNR) OPEN research, Grant No. O20/14776480
 - **2019.11 – 2023.10** Doctoral researcher in Law, Science and Technology Joint Doctorate: Rights of Internet of Everything, funded under the (Horizon 2020) Marie Skłodowska-Curie Action - Innovative Training Network (LAST-JD-RIoE-MSCA-ITN), EU Grant No. 814177
 
-## Obtained Funding
+### Successful Grant Contributions
 - **2025** Main co-author to RECALL – Reasoning and Explaining CAusality and Liability through Legal Ai  FNR CORE, PI: Réka Markovich, Co-PI: Amro Najjar
 - **2024** Main co-author to SERAFIN - Symbolic and Explainable Regulatory AI for Finance Innovation, FNR CORE, PI: Leon van der Torre, Co-PI: Ankit Arora, Project budget: 598K Euros
 
 
-## Additional Information
-### Academic Service
+## Academic Service
+
+### Editorial Responsibilities
 - Corner Editor, *Journal of Logic and Computation* — AI Logic
-- Editor and PC Chair:
-  - Sixth International Workshop on Logic and Argumentation for New-generation AI, Barcelona, Spain, September 17, 2026
-  - Fifth International Workshop on Logic for New-generation AI, Luxembourg, December 1–5, 2025
-  - First and Second International Workshops on Causality, Agents and Large Models (CALM 2024 and CALM 2025), including the CCIS post-proceedings for CALM 2024
-- Program Committee member: IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, and other venues
+
+### Program Chairships
+- Sixth International Workshop on Logic and Argumentation for New-generation AI, Barcelona, Spain, September 17, 2026
+- Fifth International Workshop on Logic for New-generation AI, Luxembourg, December 1–5, 2025
+- First and Second International Workshops on Causality, Agents and Large Models (CALM 2024 and CALM 2025), including the CCIS post-proceedings for CALM 2024
+
+### Program Committee Memberships
+- IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, and other venues
 
 ### Conference Organization
 - **2025** [LUXLOGAI 2025, Luxembourg](https://icr.uni.lu/luxlogai2025/index.html)
@@ -47,13 +53,7 @@ I am an AI researcher focusing on symbolic and hybrid approaches for human-level
 - **2023** ICR & CLAiM Workshop on Distributed Argumentation Technology
 - **2023** Zhejiang University–University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE) kick-off workshop
 
-### Supervision of students
-- **2025 - present** Daily supervisor for Thomas Løye Skafte (doctoral researcher)
-- **2024** Tutor for Velija Delikj's bachelor semester project on autonomous cars
-- **2022 - present** Advisor for Vincent de Wit (doctoral researcher)
-- **2023 - present** Advisor for master's and PhD students from Zhejiang University through ZLAIRE
-
-### Teaching Profile and Activities
+## Teaching Experience and Vision
 I enjoy **both research-based teaching and foundational teaching**. My research-based teaching focuses on advanced topics in knowledge representation and reasoning, including logic and formal argumentation in AI. Additionally, I contribute to foundational education by coordinating textbook drafting and teaching core subjects in computer science, such as discrete mathematics, propositional logic, and first-order logic.
 
 - **2026.08** Course on *Logic and Argumentation for New-generation AI* at **European Summer School for Logic, Language, and Information 2026** (ESSLLI 2026), Prague (upcoming)
@@ -62,7 +62,13 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2024.04 – 2024.06** Doctoral Course on *Introduction to Formal and Computational Argumentation*, the University of Luxembourg, Luxembourg
 - **2024.04 – 2024.06** Master Course on *Intelligent Agents 1*, the University of Luxembourg, Luxembourg
 
-### Academic Visits
+### Student Supervision and Mentoring
+- **2025 - present** Daily supervisor for Thomas Løye Skafte (doctoral researcher)
+- **2024** Tutor for Velija Delikj's bachelor semester project on autonomous cars
+- **2022 - present** Advisor for Vincent de Wit (doctoral researcher)
+- **2023 - present** Advisor for master's and PhD students from Zhejiang University through ZLAIRE
+
+## Academic Visits
 - **2026.05, 2025.12, 2025.06, 2024.06, 2023.12, 2023.06** ZLAIRE, Institute of Logic and Cognition, Zhejiang University, China
 - **2024.10** Department of Information Science and Media Studies, University of Bergen, Norway
 - **2023.11** Computer Science Department, Cadi Ayyad University, Morocco
@@ -72,7 +78,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2023.12, 2023.07** Department of Informatics, Kyoto University, Japan
 
 
-### Talks
+## Talks
 - **2026.06** Two-Layer Contract Governance: Object-Level CTD Rights and Meta-Level Contract Invalidity, at JURISIN 2026, Tokyo, Japan.
 - **2026.06** Reason-Aligned Normative Reasoning in LogiKEy: From Balancing Reasons to Epistemic Rights and Duties (together with LEon van der Torre and Luca Pasetto), at the pre-JURISIN Workshop 2026, Tokyo, Japan.
 - **2026.05** CREDO-RAD: Reason-Aligned Reactive Choice and the Logic of Traceable Context Dependence (together with Leon van der Torre), at the 5th Anniversary of ZLAIRE & International Workshop on Logic in Artificial Intelligence, Hangzhou, China.
@@ -103,5 +109,4 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2019.12** On the Optimized Utilization of Smart Contracts in DLTs from the Perspective of Legal Representation and Legal Reasoning, at 32nd International Conference on Legal Knowledge and Information Systems (JURIX2019), Madrid, Spain
 
 {% include_relative _includes/publications.md %}
-
 

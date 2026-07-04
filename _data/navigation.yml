@@ -1,23 +1,26 @@
 main:
 
-  - title: "Publications"
-    url: ./#publications
-    right: true
+  - title: "About"
+    url: ./#about-me
 
-  - title: "Additional Information"
-    url: ./#additional-information
+  - title: "Education"
+    url: ./#education
+
+  - title: "Research Grants"
+    url: ./#research-grants
 
   - title: "Academic Service"
     url: ./#academic-service
 
-  - title: "Obtained Funding"
-    url: ./#obtained-funding
+  - title: "Teaching Experience and Vision"
+    url: ./#teaching-experience-and-vision
 
-  - title: "Participating In Research Grants"
-    url: ./#participating-in-research-grants
-    
-  - title: "Education"
-    url: ./#education
+  - title: "Academic Visits"
+    url: ./#academic-visits
 
-  - title: "About"
-    url: ./#about-me
+  - title: "Talks"
+    url: ./#talks
+
+  - title: "Publications"
+    url: ./#publications
+    right: true

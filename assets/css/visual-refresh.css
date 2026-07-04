@@ -1,0 +1,478 @@
+:root {
+  --vr-paper: #ffffff;
+  --vr-bg: #f6f8f8;
+  --vr-ink: #1f2a32;
+  --vr-muted: #5f6d75;
+  --vr-line: #dfe7ea;
+  --vr-blue: #123c69;
+  --vr-teal: #0b6f77;
+  --vr-gold: #c58a19;
+  --vr-red: #b94b5b;
+  --vr-shadow: 0 18px 42px rgba(22, 42, 55, 0.08);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--vr-bg);
+  color: var(--vr-ink);
+  font-size: 17px;
+  line-height: 1.65;
+  padding-top: 78px;
+}
+
+a {
+  color: var(--vr-teal);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--vr-blue);
+}
+
+strong {
+  color: #16222b;
+  font-weight: 600;
+}
+
+.topnav {
+  align-items: center;
+  background: rgba(255, 255, 255, 0.94);
+  border-bottom: 1px solid rgba(18, 60, 105, 0.12);
+  box-shadow: 0 10px 28px rgba(12, 41, 58, 0.08);
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  min-height: 58px;
+  overflow: visible;
+  padding: 10px 32px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+  z-index: 10000;
+}
+
+.topnav > a:first-child {
+  display: none;
+}
+
+.topnav #myLinks {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px 8px;
+  justify-content: center;
+  max-width: 1120px;
+  width: 100%;
+}
+
+.topnav a.normal,
+.topnav a.right {
+  border-radius: 8px;
+  color: var(--vr-blue);
+  float: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 14px;
+  font-weight: 650;
+  letter-spacing: 0;
+  line-height: 1.2;
+  margin: 0;
+  padding: 9px 12px;
+}
+
+.topnav a.normal:hover,
+.topnav a.right:hover {
+  background: rgba(11, 111, 119, 0.1);
+  color: var(--vr-teal);
+}
+
+.topnav a.icon {
+  border-radius: 8px;
+  color: var(--vr-blue);
+}
+
+.wrapper {
+  display: grid;
+  gap: 54px;
+  grid-template-columns: 282px minmax(0, 1fr);
+  margin: 0 auto;
+  max-width: 1160px;
+  width: calc(100% - 56px);
+}
+
+header {
+  align-self: start;
+  background: var(--vr-paper);
+  border: 1px solid var(--vr-line);
+  border-radius: 8px;
+  box-shadow: var(--vr-shadow);
+  box-sizing: border-box;
+  float: none;
+  padding: 28px 24px;
+  position: sticky;
+  text-align: left;
+  top: 90px;
+  width: auto;
+}
+
+header .image.avatar {
+  display: block;
+  margin: 0 auto 18px;
+  width: 170px;
+}
+
+.image.avatar img {
+  background: #fdfdfb;
+  border: 1px solid rgba(18, 60, 105, 0.16);
+  border-radius: 8px;
+  box-shadow: 0 12px 24px rgba(24, 46, 62, 0.12);
+  box-sizing: border-box;
+  padding: 6px;
+}
+
+header h1 {
+  color: var(--vr-blue);
+  font-size: 32px;
+  font-weight: 650;
+  letter-spacing: 0;
+  line-height: 1.05;
+  margin: 0 0 14px;
+  text-align: center;
+}
+
+header position {
+  color: var(--vr-ink);
+  display: block;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 650;
+  line-height: 1.35;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+header autocolor {
+  color: var(--vr-muted);
+}
+
+email {
+  background: rgba(11, 111, 119, 0.08);
+  border: 1px solid rgba(11, 111, 119, 0.16);
+  border-radius: 8px;
+  color: var(--vr-teal);
+  display: inline-block;
+  font-size: 13px;
+  margin-top: 10px;
+  padding: 5px 8px;
+}
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 6px;
+}
+
+.social-icons a {
+  align-items: center;
+  background: #f3f7f7;
+  border: 1px solid rgba(18, 60, 105, 0.12);
+  border-radius: 8px;
+  color: var(--vr-blue) !important;
+  display: inline-flex;
+  height: 42px;
+  justify-content: center;
+  line-height: 1;
+  margin: 0 !important;
+  width: 42px;
+}
+
+.social-icons a:hover {
+  background: var(--vr-blue);
+  color: #fff !important;
+  transform: translateY(-2px);
+}
+
+section {
+  border: 0;
+  float: none;
+  padding-bottom: 70px;
+  padding-top: 14px;
+  width: auto;
+}
+
+section h1[id],
+section h2[id],
+section h3[id] {
+  scroll-margin-top: 92px;
+}
+
+section h2 {
+  border-bottom: 1px solid var(--vr-line);
+  color: var(--vr-blue);
+  font-size: 24px;
+  font-weight: 650;
+  letter-spacing: 0;
+  margin-bottom: 18px !important;
+  padding-bottom: 8px;
+}
+
+section h3 {
+  color: var(--vr-teal);
+  font-size: 19px;
+  margin-top: 26px;
+}
+
+section p,
+section li {
+  color: var(--vr-ink);
+}
+
+section ul,
+section ol {
+  padding-left: 1.35em;
+}
+
+section li {
+  margin-bottom: 0.48em;
+}
+
+section > p:first-of-type,
+section > p:nth-of-type(2) {
+  color: #2d3e49;
+  font-size: 18px;
+  line-height: 1.72;
+}
+
+.publications {
+  margin-top: 24px;
+}
+
+.publications h1 {
+  color: var(--vr-blue);
+}
+
+.publications ol.bibliography {
+  display: grid;
+  gap: 14px;
+  margin-top: 10px;
+}
+
+.publications ol.bibliography li {
+  background: var(--vr-paper);
+  border: 1px solid var(--vr-line);
+  border-left: 4px solid var(--vr-teal);
+  border-radius: 8px;
+  box-shadow: 0 10px 28px rgba(22, 42, 55, 0.06);
+  box-sizing: border-box;
+  margin: 0;
+  min-height: 0;
+  padding: 18px 20px;
+}
+
+.publications ol.bibliography li + br {
+  display: none;
+}
+
+.pub-row {
+  align-items: flex-start;
+}
+
+.publications ol.bibliography li .col-sm-9 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.publications ol.bibliography li .title {
+  font-size: 18px;
+  font-weight: 650;
+  line-height: 1.35;
+  margin-bottom: 7px;
+}
+
+.publications ol.bibliography li .title a {
+  color: var(--vr-blue);
+}
+
+.publications ol.bibliography li .author {
+  color: var(--vr-muted);
+  font-size: 15.5px;
+  line-height: 1.45;
+  margin-bottom: 5px;
+}
+
+.publications ol.bibliography li .periodical {
+  color: #40515b;
+  font-size: 15.5px;
+}
+
+.publications ol.bibliography li .links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.publications ol.bibliography li .links a.btn {
+  background: #f7faf9;
+  border: 1px solid rgba(11, 111, 119, 0.24);
+  border-radius: 8px;
+  color: var(--vr-teal);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 650;
+  line-height: 1.4;
+  padding: 3px 8px;
+}
+
+.publications ol.bibliography li .links a.btn:hover {
+  background: var(--vr-teal);
+  border-color: var(--vr-teal);
+  color: #fff;
+}
+
+.publications ol.bibliography li .links strong i {
+  color: var(--vr-red) !important;
+  font-style: normal;
+}
+
+footer {
+  float: none;
+  position: static;
+  text-align: left;
+  width: auto;
+}
+
+#back-to-top {
+  border-color: var(--vr-line) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 8px 20px rgba(22, 42, 55, 0.12);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+@media print, screen and (max-width: 960px) {
+  body {
+    padding-top: 66px;
+  }
+
+  .topnav {
+    justify-content: flex-end;
+    min-height: 54px;
+    padding: 8px 18px;
+  }
+
+  .topnav #myLinks {
+    background: rgba(255, 255, 255, 0.98);
+    border: 1px solid var(--vr-line);
+    border-radius: 8px;
+    box-shadow: var(--vr-shadow);
+    box-sizing: border-box;
+    display: none;
+    flex-direction: column;
+    left: 14px;
+    max-width: none;
+    padding: 8px;
+    position: absolute;
+    right: 14px;
+    top: 62px;
+    width: auto;
+  }
+
+  .topnav #myLinks[style*="block"] {
+    display: flex !important;
+  }
+
+  .topnav a.normal,
+  .topnav a.right {
+    color: var(--vr-blue);
+    display: block;
+    font-size: 15px;
+    margin: 0;
+    padding: 12px 14px;
+    text-align: left;
+  }
+
+  .topnav a.icon {
+    align-items: center;
+    background: #f3f7f7;
+    border: 1px solid var(--vr-line);
+    display: inline-flex;
+    font-size: 17px;
+    height: 38px;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    position: static;
+    width: 42px;
+  }
+
+  .wrapper {
+    display: block;
+    margin: 0 auto;
+    width: calc(100% - 30px);
+  }
+
+  header {
+    margin: 0 0 22px;
+    padding: 24px 20px;
+    position: static;
+    text-align: center;
+  }
+
+  section {
+    margin: 0;
+    padding: 0 0 42px;
+  }
+
+  section h2 {
+    font-size: 22px;
+  }
+}
+
+@media print, screen and (max-width: 540px) {
+  body {
+    font-size: 16px;
+  }
+
+  .wrapper {
+    width: calc(100% - 22px);
+  }
+
+  header h1 {
+    font-size: 28px;
+  }
+
+  header .image.avatar {
+    width: 148px;
+  }
+
+  .publications ol.bibliography li {
+    padding: 16px 15px;
+  }
+
+  .publications ol.bibliography li .title {
+    font-size: 16.5px;
+  }
+}
+
+@media print {
+  body {
+    background: #fff;
+    padding-top: 0;
+  }
+
+  .topnav {
+    display: none;
+  }
+
+  header,
+  .publications ol.bibliography li {
+    box-shadow: none;
+  }
+}

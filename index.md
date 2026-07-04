@@ -6,11 +6,11 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About</h2>
 
-I am a postdoctoral researcher at Luxembourg Institute of Science and Technology, where I am a member of the Trustworthy AI Group. 
+I am a postdoctoral researcher at Luxembourg Institute of Science and Technology, where I am a member of the Trustworthy AI Group.
 
-I am an AI researcher focusing on symbolic and hybrid approaches for human-level and human-centered AI in application areas like digital transformation of law and finance. 
+I am an AI researcher focusing on symbolic and hybrid approaches to human-level and human-centered AI, with applications in the digital transformation of law and finance. My expertise lies in knowledge representation and reasoning, formal and computational argumentation, non-monotonic and deontic reasoning, and AI & law.
 
-
+I coordinate the [Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE)](https://www.zlaire.net/). More information about TAI, CLAiM, and ICR is available at [TAI–CLAIM–ICR](https://taiclaimicr.github.io/).
 
 ## Education
 - **Ph.D. Joint Doctorate in LAST-JD-RIoE-MSCA-ITN (Law, Science and Technology Joint Doctorate: Rights of Internet of Everything - funded under the EU's Marie Skłodowska-Curie Action - Innovative Training Network)**, 2019 – 2023, AND
@@ -109,4 +109,3 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 - **2019.12** On the Optimized Utilization of Smart Contracts in DLTs from the Perspective of Legal Representation and Legal Reasoning, at 32nd International Conference on Legal Knowledge and Information Systems (JURIX2019), Madrid, Spain
 
 {% include_relative _includes/publications.md %}
-

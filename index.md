@@ -46,6 +46,7 @@ I am currently at the [Luxembourg Institute of Science and Technology (LIST)](ht
 - IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, and other venues
 
 ### Conference Organization
+- **2026** [Workshop of Trustworthy AI, Computational law and machine ethics, Individual and collective reasoning groups, Luxembourg]
 - **2025** [LUXLOGAI 2025, Luxembourg](https://icr.uni.lu/luxlogai2025/index.html)
 - **2025** [LNGAI 2025, Luxembourg](https://www.zlaire.net/lngai2025/)
 - **2025** [CALM 2025, Luxembourg](https://www.ciad-lab.fr/the-2nd-international-workshop-on-causality-agents-and-large-models-calm/)
@@ -64,9 +65,10 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 
 ### Student Supervision and Mentoring
 - **2025 - present** Daily supervisor for Thomas Løye Skafte (doctoral researcher)
-- **2024** Tutor for Velija Delikj's bachelor semester project on autonomous cars
-- **2022 - present** Advisor for Vincent de Wit (doctoral researcher)
 - **2023 - present** Advisor for master's and PhD students from Zhejiang University through ZLAIRE
+- **2024** Tutor for Velija Delikj's bachelor semester project on autonomous cars
+- **2022 - 2026** Advisor for Vincent de Wit (doctoral researcher)
+
 
 ## Academic Visits
 - **2026.05, 2025.12, 2025.06, 2024.06, 2023.12, 2023.06** ZLAIRE, Institute of Logic and Cognition, Zhejiang University, China

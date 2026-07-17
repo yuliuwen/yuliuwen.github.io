@@ -1,4 +1,9 @@
 main:
+  - title: "The Artificial Moral Machine: Do LLMs Mirror Human Moral Diversity or Merely Caricature It?"
+    authors: Davide Liga, <strong>Liuwen YU</strong>, Marija Slavkovik, Samia Touileb, Beishui Liao, Leendert van der Torre
+    conference: AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)
+    notes: Upcoming
+
   - title: "The Libra Dialogue Protocol for Comparative Deliberation"
     authors: Luca Pasetto, Thomas Skate, Leendert van der Torre, <strong>Liuwen YU</strong>
     conference: 11th International Conference on Computational Models of Argument (COMMA 2026)

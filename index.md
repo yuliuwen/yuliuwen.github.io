@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About</h2>
 
-I am an AI researcher working on symbolic and hybrid approaches to human-level and human-centered AI, with applications in the digital transformation of law and finance. My expertise lies in knowledge representation and reasoning, formal and computational argumentation, and AI & law.
+I am an AI researcher working on symbolic and hybrid approaches to human-level and human-centered AI, with applications in the digital transformation of law and finance. My expertise lies in knowledge representation and reasoning, formal and computational argumentation, and AI&law.
 
 I am currently at the [Luxembourg Institute of Science and Technology (LIST)](https://www.list.lu/), where I am a member of the [Trustworthy AI Group (TAI)](https://researchportal.list.lu/organisation/detail/sd-hands-tai). I also co-coordinate two joint initiatives: the [Zhejiang University – University of Luxembourg Joint Lab on Advanced Intelligent Systems and REasoning (ZLAIRE)](https://www.zlaire.net/) and the [TAI–CLAiM–ICR](https://taiclaimicr.github.io/) collaboration, which brings together [TAI](https://researchportal.list.lu/organisation/detail/sd-hands-tai), [Computational Law and Machine Ethics (CLAiM)](https://www.uni.lu/fstm-en/research-groups/computational-law-and-machine-ethics/), and the [Individual and Collective Reasoning Group (ICR)](https://icr.uni.lu/).
 

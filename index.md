@@ -57,6 +57,8 @@ I am currently at the [Luxembourg Institute of Science and Technology (LIST)](ht
 ## Teaching Experience and Vision
 I enjoy **both research-based teaching and foundational teaching**. My research-based teaching focuses on advanced topics in knowledge representation and reasoning, including logic and formal argumentation in AI. At the same time, I contribute to foundational computer science education by coordinating textbook development and teaching core subjects such as discrete mathematics, propositional logic, and first-order logic. In response to the growing and sometimes uncritical use of generative AI in the classroom, my teaching aims to help students use AI systems critically rather than passively: students are encouraged to reconstruct arguments, question assumptions, compare human and machine reasoning, and justify their own conclusions. To support active engagement, I use interactive tools such as Wooclap for live questions, polls, and feedback, together with project-based assignments that connect formal concepts to current AI research and practice.
 
+I have developed teaching materials for my main course, please find them below according.
+
 - **2026.08** Course on *Logic and Argumentation for New-generation AI* at **European Summer School for Logic, Language, and Information 2026** (ESSLLI 2026), Prague [[Slides](assets/files/ESSLLI_2026.pdf)]
 - **2025.06** Course on *From Logic to Argumentation in AI* at **North American Summer School in Logic, Language, and Information 2025** (NASSLI 2025), Washington University, the United States
 - **2024.09 – 2024.12** Master Course on *Intelligent Systems: Agents and Reasoning*, the University of Luxembourg, Luxembourg

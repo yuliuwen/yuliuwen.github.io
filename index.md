@@ -62,7 +62,7 @@ I have developed teaching materials for my main course, please find them below a
 - **2026.08** Course on *Logic and Argumentation for New-generation AI* at **European Summer School for Logic, Language, and Information 2026** (ESSLLI 2026), Prague [[Slides](assets/files/ESSLLI_2026.pdf)]
 - **2025.06** Course on *From Logic to Argumentation in AI* at **North American Summer School in Logic, Language, and Information 2025** (NASSLI 2025), Washington University, the United States
 - **2024.09 – 2024.12** Master Course on *Intelligent Systems: Agents and Reasoning*, the University of Luxembourg, Luxembourg
-- **2024.04 – 2024.06** Doctoral Course on *Introduction to Formal and Computational Argumentation*, the University of Luxembourg, Luxembourg
+- **2024.04 – 2024.06** Doctoral Course on *Introduction to Formal and Computational Argumentation*, the University of Luxembourg, Luxembourg [[Slides](assets/files/IFCA_ALLslides.pdf)]
 - **2024.04 – 2024.06** Master Course on *Intelligent Agents 1*, the University of Luxembourg, Luxembourg
 
 ### Student Supervision and Mentoring

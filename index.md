@@ -73,6 +73,7 @@ I have developed teaching materials for my main course, please find them below a
 
 
 ## Academic Visits
+- **2026.08 – 2026.09** LuxAI, New York; University of Maryland, the United States
 - **2026.05, 2025.12, 2025.06, 2024.06, 2023.12, 2023.06** ZLAIRE, Institute of Logic and Cognition, Zhejiang University, China
 - **2024.10** Department of Information Science and Media Studies, University of Bergen, Norway
 - **2023.11** Computer Science Department, Cadi Ayyad University, Morocco

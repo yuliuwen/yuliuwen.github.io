@@ -84,6 +84,8 @@ I have developed teaching materials for my main course, please find them below a
 
 
 ## Talks
+- **2026.09** A Multilingual Argument and Value Mining Corpus from Public Debate, at the Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (LNGAI 2026), Barcelona, Spain.
+- **2026.08** Logic and Argumentation for New-generation AI: A Two-Hour Tutorial (together with Leon van der Torre), at the University of Maryland, the United States.
 - **2026.06** Two-Layer Contract Governance: Object-Level CTD Rights and Meta-Level Contract Invalidity, at JURISIN 2026, Tokyo, Japan.
 - **2026.06** Reason-Aligned Normative Reasoning in LogiKEy: From Balancing Reasons to Epistemic Rights and Duties (together with LEon van der Torre and Luca Pasetto), at the pre-JURISIN Workshop 2026, Tokyo, Japan.
 - **2026.05** CREDO-RAD: Reason-Aligned Reactive Choice and the Logic of Traceable Context Dependence (together with Leon van der Torre), at the 5th Anniversary of ZLAIRE & International Workshop on Logic in Artificial Intelligence, Hangzhou, China.

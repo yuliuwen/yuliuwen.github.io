@@ -4,227 +4,242 @@ main:
     conference: AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)
     notes: Upcoming
 
+  - title: "Retrieval-Augmented Generation for Financial Regulation via LLM Orchestration and Hybrid Symbolic-Subsymbolic AI"
+    authors: Davide Liga, <strong>Liuwen YU</strong>, Ankit Arora
+    conference: Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026)
+    notes: Upcoming
+
   - title: "The Libra Dialogue Protocol for Comparative Deliberation"
     authors: Luca Pasetto, Thomas Skafte, Leendert van der Torre, <strong>Liuwen YU</strong>
     conference: Proceedings of the 11th International Conference on Computational Models of Argument (COMMA 2026), pp. 173–184.
     pdf: ./assets/files/COMMA2026_libra_dialogue.pdf
-    page: https://doi.org/10.3233/FAIA260810
+    page: "https://doi.org/10.3233/FAIA260810"
     notes: Published
+    bibtex: "./assets/files/pasetto2026libra.bib"
 
   - title: "Revealed Epistemic Trust"
     authors: Xu Li, Leendert van der Torre, <strong>Liuwen YU</strong>
     conference: Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), pp. 462–471.
     pdf: ./assets/files/KR2026_revealed_epistemic_trust.pdf
-    page: https://proceedings.kr.org/2026/44/
+    page: "https://proceedings.kr.org/2026/44/"
     notes: Published
+    bibtex: "./assets/files/li2026revealed.bib"
 
   - title: "A Multilingual Argument and Value Mining Corpus from Public Debate"
     authors: Davide Liga, <strong>Liuwen YU</strong>, Réka Markovich
     conference: Proceedings of the Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (LNGAI 2026), pp. 35–48.
     pdf: ./assets/files/LNGAI2026_multilingual_argument_value_mining.pdf
-    page: https://www.collegepublications.co.uk/LNGAI/?00006
+    page: "https://www.collegepublications.co.uk/LNGAI/?00006"
     notes: Published
+    bibtex: "./assets/files/liga2026multilingual.bib"
 
   - title: "The Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (Proceedings)"
     authors: Beishui Liao, Nico Potyka, Leendert van der Torre, <strong>Liuwen YU</strong> (editors)
     conference: LNGAI 2026, Barcelona, Spain, September 14, 2026. College Publications.
     pdf: ./assets/files/LNGAI2026_proceedings.pdf
-    page: https://www.collegepublications.co.uk/LNGAI/?00006
+    page: "https://www.collegepublications.co.uk/LNGAI/?00006"
     notes: Published
+    bibtex: "./assets/files/liao2026lngai.bib"
 
-  - title: "Retrieval-Augmented Generation for Financial Regulation via LLM Orchestration and Hybrid Symbolic-Subsymbolic AI"
-    authors: Davide Liga, <strong>Liuwen YU</strong>, Ankit Arora
-    conference: Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026)
-    notes: Upcoming
-    
   - title: "Whistleblowing and the Machine--Towards a Considered Position"
     authors: Marija Slavkovik, <strong>Liuwen YU</strong>, Leendert van der Torre, Réka Markovich
     conference: AAMAS-26 Workshop on Rebellion and Disobedience in AI
-    pdf: ./assets/files/whistleblowing.pdf
-    page: https://arxiv.org/abs/2606.21201
+    pdf: "./assets/files/Whistleblowing2026.pdf"
+    page: "https://arxiv.org/abs/2606.21201"
     notes: Preprint
-    
+    bibtex: "./assets/files/slavkovik2026whistleblowing.bib"
+
   - title: "Hierarchical Institutions for Contract Invalidity"
     authors: Huimin Dong, Réka Markovich, Leendert van der Torre, <strong>Liuwen YU</strong>
     conference: Local Proceedings of the 20th International Workshop on Juris-Informatics (JURISIN 2026)
-    pdf: ./assets/files/2026_JURISIN.pdf
+    pdf: "./assets/files/JURISIN2026_contract_invalidity.pdf"
     notes: Published
+    bibtex: "./assets/files/dong2026hierarchical.bib"
+    page: "https://jurisinformaticscenter.github.io/jurisin2026/"
 
   - title: "Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning"
     authors: Davide Liga, Réka Markovich, <strong>Liuwen YU</strong>
     conference: Logical and Symbolic Reasoning in Language Models @ AAAI 2026
     pdf: ./assets/files/2026_AAAI bridge .pdf
-    page: https://openreview.net/forum?id=Ob9A7NusFQ
-    bibtex: ./assets/files/aaaibridge_bib.txt
+    page: "https://openreview.net/forum?id=Ob9A7NusFQ"
+    bibtex: "./assets/files/liga2026weights.bib"
     notes: Published
-    
+
   - title: "Balancing for Agent Decision Making through Argumentation"
-    authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Chenyang CAI
+    authors: "<strong>Liuwen YU</strong>, Chenyang CAI, Réka MARKOVICH, Leendert VAN DER TORRE"
     conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
     pdf: ./assets/files/balancing_aamas2026.pdf
-    
+    bibtex: "./assets/files/yu2026balancing.bib"
+    page: "https://doi.org/10.65109/VBZK6091"
+
   - title: "Disobedience in normative multi-agent systems"
     authors: Marija SLAVKOVIK, <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO
     conference: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)
     pdf: ./assets/files/AAMAS2026_disobedience.pdf
-    
+    bibtex: "./assets/files/slavkovik2026disobedience.bib"
+    page: "https://doi.org/10.65109/LDPF7116"
+
   - title: "Agent defense in abstract argumentation: Semantics and principle-based analysis"
     authors: <strong>Liuwen YU</strong>, Xu LI, Leendert VAN DER TORRE
     conference: Journal of Argument & Computation
     pdf: ./assets/files/yu-et-al-2026-agent-defense-in-abstract-argumentation-semantics-and-principle-based-analysis.pdf
+    bibtex: "./assets/files/yu2026agentdefense.bib"
+    page: "https://journals.sagepub.com/doi/10.1177/19462174261420549"
 
   - title: "A Logical Analysis of an Information Filtering Architecture Based on Epistemic Trust Inference"
     authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI2026)
-    pdf: ./assets/files/aaai 20206.pdf
-    page: https://ojs.aaai.org/index.php/AAAI/article/view/39001
-    bibtex: ./assets/files/aaai2026.txt
+    pdf: "./assets/files/AAAI2026_epistemic_trust_inference.pdf"
+    page: "https://ojs.aaai.org/index.php/AAAI/article/view/39001"
+    bibtex: "./assets/files/li2026logical.bib"
     notes: Published
-  
+
   - title: "Contrary-to-Duty Rights: From Hohfeld To Agreement Revision"
     authors: Huimin Dong, Leendert van der Torre, <strong>Liuwen YU</strong>
     conference: The 38th International Conference on Legal Knowledge and Information Systems (JURIX2025)
     pdf: ./assets/files/JURIX20252.pdf
-    page: https://ebooks.iospress.nl/volumearticle/76884
-    bibtex: ./assets/files/JURIX20252.txt
+    page: "https://doi.org/10.3233/FAIA251577"
+    bibtex: "./assets/files/dong2025contrary.bib"
     notes: Published
-  
+
   - title: "Which Neurons Nudge Normative Stance? Causal Tests and Mechanistic Evidence via Contrastive Last-Token Steering"
     authors: Davide Liga, <strong>Liuwen YU</strong>
     conference: The 38th International Conference on Legal Knowledge and Information Systems (JURIX2025)
     pdf: ./assets/files/JURIX20251.pdf
-    page: https://ebooks.iospress.nl/doi/10.3233/FAIA251581
-    bibtex: ./assets/files/JURIX20251.txt
+    page: "https://doi.org/10.3233/FAIA251581"
+    bibtex: "./assets/files/liga2025neurons.bib"
     notes: Published
 
   - title: "Reasoning Alignment for Agentic AI: Argumentation, Belief Revision, and Dialogue"
-    authors: Rienstra Tjitze, Leendert van der Torre, <strong>Liuwen YU</strong>
+    authors: "Tjitze Rienstra, Leendert van der Torre, <strong>Liuwen YU</strong>"
     conference: Journal of Applied Logics - IfCoLog Journal, 12(6), 1683–1712, 2025.
     pdf: ./assets/files/ifcolog00074.pdf
-    page: https://www.collegepublications.co.uk/ifcolog/?00074
-    bibtex: ./assets/files/ifcolog00074.txt
-    notes: Published  
+    page: "https://www.collegepublications.co.uk/ifcolog/?00074"
+    bibtex: "./assets/files/rienstra2025reasoningalignment.bib"
+    notes: Published
 
   - title: "Logics for New-Generation AI (Book)"
     authors: Beishui Liao, Antonino Rotolo, Leendert van der Torre, <strong>Liuwen YU</strong> (editors)
     conference: Fifth International Workshop. December 1-5 2025, Luxembourg
     pdf: ./assets/files/LNGAI00005.pdf
-    page: https://www.collegepublications.co.uk/LNGAI/?00005
+    page: "https://www.collegepublications.co.uk/LNGAI/?00005"
     notes: Published
+    bibtex: "./assets/files/liao2025lngai.bib"
 
   - title: "DiSCo–RAD: Reasoning Alignment for Judicial Discretion"
     authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH, Beishui LIAO, Chenyang CAI
     conference: The Proceedings of the Fifth International Workshop on Logics for New-Generation Artificial Intelligence
     pdf: ./assets/files/LNGAI2025_constitutional_court_argumentation.pdf
-    page: https://www.collegepublications.co.uk/LNGAI/?00005
+    page: "https://www.collegepublications.co.uk/LNGAI/?00005"
     notes: Published
-    
-    
+    bibtex: "./assets/files/yu2025discorad.bib"
+
   - title: "A Principle-Based Robustness Analysis of Labeling-Based Bipolar Argumentation Semantics"
     authors: Caren Al ANAISSY, Chen CHEN, Srdjan VESIC, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference: The Proceedings of the Fifth International Workshop on Logics for New-Generation Artificial Intelligence
     pdf: ./assets/files/LNGAI2025_robustness.pdf
-    page: https://www.collegepublications.co.uk/LNGAI/?00005
+    page: "https://www.collegepublications.co.uk/LNGAI/?00005"
     notes: Published
-    
+    bibtex: "./assets/files/alanaissy2025robustness.bib"
+
   - title: "Addressing the Right to Explanation and the Right to Challenge through Hybrid-AI: Symbolic Constraints over Large Language Models via Prompt Engineering"
     authors: <strong>Liuwen YU</strong>, Davide Liga, Réka Markovich
     conference: The 20th International Conference on Artificial Intelligence and Law
     notes: Carole Hafner Best Paper Award at ICAIL 2025
-  
+    bibtex: "./assets/files/YuLigaMarkovich2025RightExplanation.bib"
+    page: "https://doi.org/10.1145/3769126.3769252"
+    pdf: "https://dl.acm.org/doi/pdf/10.1145/3769126.3769252"
+
   - title: "The A-BDI Metamodel for Human-Level AI: Argumentation as Balancing, Dialogue and Inference"
     authors: <strong>Liuwen YU</strong>, Leendert van der Torre
     conference: International Conference on Logic and Argumentation (2025), pp. 361–379.
     notes: Published
     pdf: ./assets/files/CLAR2025.pdf
-    page: https://link.springer.com/chapter/10.1007/978-981-96-7956-0_22
-    bibtex: ./assets/files/CLAR2025.txt
+    page: "https://link.springer.com/chapter/10.1007/978-981-96-7956-0_22"
+    bibtex: "./assets/files/YuTorre2025ABDI.bib"
     notes: Published
-    
-  
-  - title: "Rational Monotony in Input Output Logics"
-    authors: Xu LI, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
+
+  - title: "Rational Monotony in Input/Output Logic"
+    authors: "Xu LI, <strong>Liuwen YU</strong>, Leendert VAN DER TORRE"
     conference: The 17th International Conference on Deontic Logic and Normative Systems
     pdf: ./assets/files/Rational_Monotony_in_I_O_Logic.pdf
-    page: https://www.collegepublications.co.uk/DEON/?00005
-    bibtex: ./assets/files/DEON2025.txt
+    page: "https://www.collegepublications.co.uk/DEON/?00005"
+    bibtex: "./assets/files/li2025rational.bib"
     notes: Published
-    
-  
+
   - title: "Thirteen Challenges in Formal and Computational Argumentation"
     authors: <strong>Liuwen YU</strong>, Leendert VAN DER TORRE, Réka MARKOVICH
     conference: Handbook of Formal Argumentation Vol. 3. / Journal of Applied Logics
     pdf: ./assets/files/HOFA3_Chapter_Thirteen_Challenges.pdf
-    page: https://www.collegepublications.co.uk/handbooks/?00008
-    bibtex: ./assets/files/HOFA3.txt
+    page: "https://www.collegepublications.co.uk/handbooks/?00008"
+    bibtex: "./assets/files/yu2024thirteen.bib"
     notes: Published
-  
-  - title: "Weakest Link, Prioritised Default Logic and Principles in Argumentation"
+
+  - title: "Weakest Link, Prioritized Default Logic and Principles in Argumentation"
     authors: Pere PARDO, <strong>Liuwen YU</strong>, Chen CHEN, Leendert VAN DER TORRE
     conference: Journal of Logic and Computation (2025).
     pdf: ./assets/files/exaf007.pdf
-    page: https://academic.oup.com/logcom/advance-article-abstract/doi/10.1093/logcom/exaf007/7997085?login=false
-    bibtex: ./assets/files/PDL.txt
+    page: "https://doi.org/10.1093/logcom/exaf007"
+    bibtex: "./assets/files/pardo2025weakest.bib"
     notes: Published
 
-    
   - title: A Principle-based Analysis for Numerical Balancing
     authors: Aleks KNOKS, Muyun SHAO, Leendert VAN DER TORRE, Vincent DE WIT, <strong>Liuwen YU</strong> 
     conference_short: LNGAI
     conference: Logics for New-Generation Artificial Intelligence (LNGAI2024)
     pdf: ./assets/files/balancing.pdf
-    page: https://orbilu.uni.lu/handle/10993/61533
-    bibtex: ./assets/files/balancing.txt
+    page: "https://orbilu.uni.lu/handle/10993/61533"
+    bibtex: "./assets/files/knoks2024numerical.bib"
     image: ./assets/files/multi.jpg
     notes: Published
-  
+
   - title: A principle-based analysis of bipolar argumentation semantics
     authors: <strong>Liuwen YU</strong>, Caren Al ANAISSY, Srdjan VESIC, Xu LI, Leendert VAN DER TORRE
     conference_short: JELIA
     conference: European Conference on Logics in Artificial Intelligence (JELIA2023)
     pdf: ./assets/files/bipolar JELIA.pdf
-    page: https://link.springer.com/chapter/10.1007/978-3-031-43619-2_15
-    bibtex: ./assets/files/bipolar JELIA.txt
+    page: "https://link.springer.com/chapter/10.1007/978-3-031-43619-2_15"
+    bibtex: "./assets/files/YuEtAl2023Bipolar.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
-  
+
   - title: "Weakest Link in Formal Argumentation: Lookahead and Principle-Based Analysis"
     authors: Chen CHEN, Pere PARDO, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference_short: CLAR
     conference: International Conference on Logic and Argumentation (CLAR2023)
     pdf: ./assets/files/CLAR_2023_weakest_link.pdf
-    page: https://link.springer.com/chapter/10.1007/978-3-031-40875-5_5
-    bibtex: ./assets/files/weakest.txt
+    page: "https://link.springer.com/chapter/10.1007/978-3-031-40875-5_5"
+    bibtex: "./assets/files/ChenEtAl2023Weakest.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
   - title: "Advanced Intelligent Systems and Reasoning: Standardization, Experimentation, Explanation"
     authors: Pere PARDO, Leendert VAN DER TORRE, <strong>Liuwen YU</strong>
     conference_short: LNGAI
-    conference: International Conference on Logic and Argumentation (LNGAI2023)
+    conference: "Joint Proceedings of the Third International Workshop on Logics for New-Generation Artificial Intelligence and the International Workshop on Logic, AI and Law (2023), pp. 3–20."
     pdf: ./assets/files/LNGAI_invite.pdf
-    page: https://orbilu.uni.lu/bitstream/10993/60883/1/_LNGAI00003c.pdf
-    bibtex: ./assets/files/LNGAI invite.txt
+    page: "https://www.collegepublications.co.uk/LNGAI/?00003"
+    bibtex: "./assets/files/pardo2023advanced.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
-    
+
   - title: "Case-Based Reasoning via Comparing the Strength Order of Features"
     authors: <strong>Liuwen YU</strong>, Dov GABBAY
     conference_short: EXTRAAMAS
     conference: The International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS2022)
     pdf: ./assets/files/CBR2022.pdf
-    page: https://link.springer.com/chapter/10.1007/978-3-031-15565-9_9
-    bibtex: ./assets/files/CBR2022.txt
+    page: "https://link.springer.com/chapter/10.1007/978-3-031-15565-9_9"
+    bibtex: "./assets/files/YuGabbay2022CaseBased.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
-    
+
   - title: "Intelligent Human-input-based Blockchain Oracle (IHiBO)"
     authors: <strong>Liuwen YU</strong>, Mirko ZICHICHI, Réka MARKOVICH, Amro NAJJAR
     conference_short: ICAART 
     conference: Conference on Agents and Artificial Intelligence (ICAART2022)
     pdf: ./assets/files/IHiBO_ICAART.pdf
-    page: https://cris.unibo.it/handle/11585/843223
-    bibtex: ./assets/files/IHiBO_ICAART.txt
+    page: "https://doi.org/10.5220/0010945300003116"
+    bibtex: "./assets/files/YuEtAl2022IHiBO.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
@@ -233,8 +248,8 @@ main:
     conference_short: HICSS
     conference: The 55th Annual Hawaii International Conference on System Sciences (HICSS2022)
     pdf: ./assets/files/HICSS2021_IHiBO.pdf
-    page: https://orbilu.uni.lu/handle/10993/50022
-    bibtex: ./assets/files/IHiBO_HICSS.txt
+    page: "https://aisel.aisnet.org/hicss-55/os/trust/2/"
+    bibtex: "./assets/files/yu2022enhancing.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
@@ -243,8 +258,8 @@ main:
     conference_short: BNAIC
     conference: The 33rd Benelux Conference on Artificial Intelligence and the 30th Belgian Dutch Conference on Machine Learning (BNAIC2021)
     pdf: ./assets/files/IHiBO_trust.pdf
-    page: https://orbilu.uni.lu/handle/10993/50021
-    bibtex: ./assets/files/IHiBO_trust.txt
+    page: "https://orbilu.uni.lu/handle/10993/50021"
+    bibtex: "./assets/files/YuEtAl2021TrustServices.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
@@ -253,18 +268,18 @@ main:
     conference_short: KR
     conference: The 18th International Conference on Principles of Knowledge Representation and Reasoning (KR2021)
     pdf: ./assets/files/KR2021.pdf
-    page: https://cris.unibo.it/bitstream/11585/846903/2/A%20Principle-based%20Analysis%20of%20Abstract%20Agent%20Argumentation%20Semantics.pdf
-    bibtex: ./assets/files/KR2021.txt
+    page: "https://proceedings.kr.org/2021/60/"
+    bibtex: "./assets/files/YuEtAl2021AgentArgumentation.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
-    
+
   - title: "Interpretations of support among arguments"
     authors: <strong>Liuwen YU</strong>, Réka MARKOVICH, Leendert VAN DER TORRE
     conference_short: JURIX
     conference: Legal Knowledge and Information Systems (JURIX2020)
     pdf: ./assets/files/JURIX2020.pdf
-    page: https://ebooks.iospress.nl/doi/10.3233/FAIA200863
-    bibtex: ./assets/files/JURIX2020.txt
+    page: "https://doi.org/10.3233/FAIA200863"
+    bibtex: "./assets/files/yu2020interpretations.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
 
@@ -273,12 +288,8 @@ main:
     conference_short: NMR
     conference: 18th International Workshop on Non-monotonic Reasoning (NMR2020)
     pdf: ./assets/files/NMR2020.pdf
-    page: A Principle-based Approach to Bipolar Argumentation
-    bibtex: ./assets/files/NMR2020.txt
+    page: "https://nmr2020.dc.uba.ar/NMRSchedule.html"
+    bibtex: "./assets/files/yu2020bipolar.bib"
     image: ./assets/files/bipolar JELIA.jpg
     notes: Published
-
-
-
-    
 

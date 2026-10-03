@@ -38,7 +38,7 @@ I am currently at the [Luxembourg Institute of Science and Technology (LIST)](ht
 - Corner Editor, *Journal of Logic and Computation* — AI Logic
 
 ### Program Chairships
-- Sixth International Workshop on Logic and Argumentation for New-generation AI, Barcelona, Spain, September 17, 2026
+- Sixth International Workshop on Logic and Argumentation for New-generation AI, Barcelona, Spain, September 14, 2026
 - Fifth International Workshop on Logic for New-generation AI, Luxembourg, December 1–5, 2025
 - First and Second International Workshops on Causality, Agents and Large Models (CALM 2024 and CALM 2025), including the CCIS post-proceedings for CALM 2024
 

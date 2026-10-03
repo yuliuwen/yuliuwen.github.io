@@ -5,15 +5,33 @@ main:
     notes: Upcoming
 
   - title: "The Libra Dialogue Protocol for Comparative Deliberation"
-    authors: Luca Pasetto, Thomas Skate, Leendert van der Torre, <strong>Liuwen YU</strong>
-    conference: 11th International Conference on Computational Models of Argument (COMMA 2026)
-    notes: Upcoming
-    
+    authors: Luca Pasetto, Thomas Skafte, Leendert van der Torre, <strong>Liuwen YU</strong>
+    conference: Proceedings of the 11th International Conference on Computational Models of Argument (COMMA 2026), pp. 173–184.
+    pdf: ./assets/files/COMMA2026_libra_dialogue.pdf
+    page: https://doi.org/10.3233/FAIA260810
+    notes: Published
+
   - title: "Revealed Epistemic Trust"
     authors: Xu Li, Leendert van der Torre, <strong>Liuwen YU</strong>
-    conference: Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026)
-    notes: Upcoming
-    
+    conference: Proceedings of the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026), pp. 462–471.
+    pdf: ./assets/files/KR2026_revealed_epistemic_trust.pdf
+    page: https://proceedings.kr.org/2026/44/
+    notes: Published
+
+  - title: "A Multilingual Argument and Value Mining Corpus from Public Debate"
+    authors: Davide Liga, <strong>Liuwen YU</strong>, Réka Markovich
+    conference: Proceedings of the Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (LNGAI 2026), pp. 35–48.
+    pdf: ./assets/files/LNGAI2026_multilingual_argument_value_mining.pdf
+    page: https://www.collegepublications.co.uk/LNGAI/?00006
+    notes: Published
+
+  - title: "The Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (Proceedings)"
+    authors: Beishui Liao, Nico Potyka, Leendert van der Torre, <strong>Liuwen YU</strong> (editors)
+    conference: LNGAI 2026, Barcelona, Spain, September 14, 2026. College Publications.
+    pdf: ./assets/files/LNGAI2026_proceedings.pdf
+    page: https://www.collegepublications.co.uk/LNGAI/?00006
+    notes: Published
+
   - title: "Retrieval-Augmented Generation for Financial Regulation via LLM Orchestration and Hybrid Symbolic-Subsymbolic AI"
     authors: Davide Liga, <strong>Liuwen YU</strong>, Ankit Arora
     conference: Proceedings of the 21st International Conference on Artificial Intelligence and Law (ICAIL 2026)

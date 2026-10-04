@@ -59,7 +59,7 @@ I enjoy **both research-based teaching and foundational teaching**. My research-
 
 I have developed teaching materials for my main course, please find them below according.
 
-- **Textbook:** *Introduction to AI Argumentation* [[PDF](assets/files/Introduction_to_AI_Argumentation.pdf)], *Mathematical Companion* [[PDF](assets/files/Mathematical_Companion.pdf)]
+- **Textbook:** *Introduction to AI argumentation* [[PDF](assets/files/Introduction_to_AI_Argumentation.pdf)], *Mathematical Companion to Introduction to AI argumentation* [[PDF](assets/files/Mathematical_Companion.pdf)]
 - **2026.08** Course on *Logic and Argumentation for New-generation AI* at **European Summer School for Logic, Language, and Information 2026** (ESSLLI 2026), Prague [[Slides](assets/files/ESSLLI_2026.pdf)]
 - **2025.06** Course on *From Logic to Argumentation in AI* at **North American Summer School in Logic, Language, and Information 2025** (NASSLI 2025), Washington University, the United States
 - **2024.09 – 2024.12** Master Course on *Intelligent Systems: Agents and Reasoning*, the University of Luxembourg, Luxembourg
@@ -117,4 +117,3 @@ I have developed teaching materials for my main course, please find them below a
 - **2019.12** On the Optimized Utilization of Smart Contracts in DLTs from the Perspective of Legal Representation and Legal Reasoning, at 32nd International Conference on Legal Knowledge and Information Systems (JURIX2019), Madrid, Spain
 
 {% include_relative _includes/publications.md %}
-

@@ -90,7 +90,7 @@ I have developed teaching materials for my main course, please find them below a
 - **2026.09** A Multilingual Argument and Value Mining Corpus from Public Debate, at the Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (LNGAI 2026), Barcelona, Spain.
 - **2026.09** Logic and Argumentation for New-generation AI: A Two-Hour Tutorial (together with Leon van der Torre), at the University of Maryland, the United States.
 - **2026.06** Two-Layer Contract Governance: Object-Level CTD Rights and Meta-Level Contract Invalidity, at JURISIN 2026, Tokyo, Japan.
-- **2026.06** Reason-Aligned Normative Reasoning in LogiKEy: From Balancing Reasons to Epistemic Rights and Duties (together with LEon van der Torre and Luca Pasetto), at the pre-JURISIN Workshop 2026, Tokyo, Japan.
+- **2026.06** Reason-Aligned Normative Reasoning in LogiKEy: From Balancing Reasons to Epistemic Rights and Duties (together with Leon van der Torre and Luca Pasetto), at the pre-JURISIN Workshop 2026, Tokyo, Japan.
 - **2026.05** CREDO-RAD: Reason-Aligned Reactive Choice and the Logic of Traceable Context Dependence (together with Leon van der Torre), at the 5th Anniversary of ZLAIRE & International Workshop on Logic in Artificial Intelligence, Hangzhou, China.
 - **2026.05** Balancing for Agent Decision Making through Argumentation, at the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), Paphos, Cyprus.
 - **2026.01** Where Do Weights Come From? Weighting and Weighing by LLMs and Formal Argumentation in Discretionary Judicial Reasoning (together with Davide Liga), at the AAAI Bridge Program on AI and Law, Singapore.
@@ -119,5 +119,6 @@ I have developed teaching materials for my main course, please find them below a
 - **2019.12** On the Optimized Utilization of Smart Contracts in DLTs from the Perspective of Legal Representation and Legal Reasoning, at 32nd International Conference on Legal Knowledge and Information Systems (JURIX2019), Madrid, Spain
 
 {% include_relative _includes/publications.md %}
+
 
 

@@ -43,7 +43,7 @@ I am currently at the [Luxembourg Institute of Science and Technology (LIST)](ht
 - First and Second International Workshops on Causality, Agents and Large Models (CALM 2024 and CALM 2025), including the CCIS post-proceedings for CALM 2024
 
 ### Program Committee Memberships
-- IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, and other venues
+- AAAI, IJCAI, AAMAS, EXTRAAMAS, JURIX, ICAIL, and other venues
 
 ### Conference Organization
 - **2026** [Workshop of Trustworthy AI, Computational law and machine ethics, Individual and collective reasoning groups, Luxembourg]
@@ -119,6 +119,7 @@ I have developed teaching materials for my main course, please find them below a
 - **2019.12** On the Optimized Utilization of Smart Contracts in DLTs from the Perspective of Legal Representation and Legal Reasoning, at 32nd International Conference on Legal Knowledge and Information Systems (JURIX2019), Madrid, Spain
 
 {% include_relative _includes/publications.md %}
+
 
 
 

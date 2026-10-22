@@ -85,6 +85,7 @@ I have developed teaching materials for my main course, please find them below a
 
 
 ## Talks
+- **2026.10** Reasoning Under Construction: Prospective Coherence in Base Argumentation, at BNAIC/BeNeLearn 2026, Maastricht, the Netherlands.
 - **2026.10** From Interpretation to Balancing: Modeling Judicial Discretionary Decision Making with Argumentation (together with Réka Markovich), at the LoDEx Workshop, Luxembourg Logic & AI Summit (LUXLOGAI 2026), Luxembourg.
 - **2026.10** Reasoning Under Construction: Prospective Coherence in Base Argumentation (joint work with Leon van der Torre; presented by Leon van der Torre), at the LoDEx Workshop, Luxembourg Logic & AI Summit (LUXLOGAI 2026), Luxembourg.
 - **2026.09** A Multilingual Argument and Value Mining Corpus from Public Debate, at the Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (LNGAI 2026), Barcelona, Spain.
@@ -119,6 +120,7 @@ I have developed teaching materials for my main course, please find them below a
 - **2019.12** On the Optimized Utilization of Smart Contracts in DLTs from the Perspective of Legal Representation and Legal Reasoning, at 32nd International Conference on Legal Knowledge and Information Systems (JURIX2019), Madrid, Spain
 
 {% include_relative _includes/publications.md %}
+
 
 
 
